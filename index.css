@@ -1,0 +1,10122 @@
+/*Very Bad Code Please Clean Later */
+/* Ip-banner Changes For Team The Team */
+.page-id-28 .ip-banner {
+  height: 80vh;
+}
+
+.page-id-28 .ip-banner canvas {
+  height: 80vh;
+}
+
+/* Removal of Banner */
+.new-title {
+  margin-top: 52px;
+}
+
+.new-title h4 {
+  font-size: 4em;
+  color: #D6A53F;
+  text-align: center;
+  margin: 0 !important;
+}
+
+@media only screen and (min-width: 768px) {
+  .new-title {
+    display: none;
+  }
+}
+
+/* New Title Backgorund Changes */
+.page-id-18 .new-title {
+  background-color: rgba(5, 49, 62, 1);
+}
+
+
+
+.page-id-18 .row {
+  padding-top: 0 !important;
+}
+
+.page-id-18 .row:before {
+  display: none;
+}
+
+.page-id-1889 .new-title {
+  background-color: #05313e;
+}
+
+@media only screen and (max-width: 768px) {
+
+  .page-id-1790 #content .entry-title-2 {
+    margin-top: 72px;
+  }
+
+  .land-img-fix #landing-page {
+    display: none;
+  }
+
+  .page-id-18 #content .alignnone {
+    display: none;
+  }
+}
+
+/* Img Fix Absolute */
+@media only screen and (max-width: 768px) {
+  .land-img-fix-Absolute #parent {
+    display: none;
+  }
+
+  .element-to-change {
+    display: none;
+  }
+
+  .page-id-28 .ip-banner {
+    display: none;
+  }
+
+  #agents-results .agent-top {
+    margin: 0;
+  }
+
+  .page-id-2579 #content .entry-title {
+    margin-right: 0 !important;
+  }
+
+  .text-generic {
+    text-align: center;
+  }
+
+  .page-id-1889 .content-center iframe {
+    width: 100%;
+  }
+
+  .page-id-1889 .container {
+    text-align: center;
+  }
+
+  .page-id-1889 .content-center iframe {
+    width: 100%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+}
+
+
+.page-id-1889 .content-center iframe {
+  width: 800px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 30px;
+}
+
+@media only screen and (max-width: 850px) {
+  .page-id-1889 .content-center iframe {
+    width: 100% !important;
+    height: 500px;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .page-id-1889 .content-center iframe {
+    display: none;
+  }
+}
+
+
+
+.page-id-19 .ip-banner {
+  display: none !important;
+}
+
+.page-id-19 #content .entry-title {
+  font-size: 4em;
+  padding-top: 0 !important;
+  padding: 0;
+  background: unset;
+  padding-right: 0 !important;
+  margin-bottom: 0;
+}
+
+.page-id-1790 #content .entry-title-2 {
+  font-size: 4em;
+  color: #D6A53F;
+}
+
+/* Wordpress Blog */
+.category-75 .ip-banner {
+  display: none;
+}
+
+#content .archive-list .article-long .archive-has-thumbnail {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.category-75 #content .archive-title {
+  text-align: center;
+  font-size: 5em;
+  font-weight: lighter;
+  background: unset;
+}
+
+#content .archive-list .article-long .archive-has-thumbnail .archive-subtitle {
+  color: black;
+  font-size: 25px;
+}
+
+#content .archive-list .article-long p {
+  margin-top: 0;
+  color: black;
+  font-size: 18px;
+}
+
+#content .archive-more {
+  color: #D6A53F;
+}
+
+
+#content .archive-subtitle {
+  color: black;
+  font-size: 2em;
+  line-height: 40px;
+}
+
+/* Blog Section */
+@import url('http://fonts.cdnfonts.com/css/gt-walsheim');
+
+html * {
+  font-family: 'GT Walsheim', sans-serif !important;
+}
+
+.page-id-7129 #content p {
+  margin: 0;
+}
+
+.page-id-7129 body, .page-id-7129 html {
+  margin: 0;
+  padding: 0;
+  font-family: 'GT Walsheim', sans-serif;
+  background-color: white;
+}
+
+/* Title Section */
+
+.page-id-7129 #Blog {
+  margin-top: 100px;
+}
+
+.page-id-7129 #blog-title-box {
+  display: block;
+  width: 100%;
+}
+
+.page-id-7129 #blog-title-box h1 {
+  color: black;
+  font-size: 2.5em !important;
+  line-height: 1.22;
+  font-weight: 700;
+  letter-spacing: -1.5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+.page-id-7129 #blog-title-box p {
+  color: black;
+  margin-bottom: 20px;
+  font-size: 1.5em !important;
+  line-height: 1.22;
+  letter-spacing: -1.5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+/* Featured Blogs */
+
+.page-id-7129 #featured-blogs {
+  max-width: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.page-id-7129 #main-feature-col {
+  width: 60%;
+}
+
+.page-id-7129 #main-feature-col a {
+  text-decoration: underline;
+}
+
+.page-id-7129 #main-feature-col img {
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 18px;
+}
+
+.page-id-7129 #main-feature-title-margin {
+  margin-right: 15px;
+  margin-bottom: 5px;
+}
+
+.page-id-7129 #main-feature-title-margin p {
+  margin: 0;
+  color: #d3a117;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+.page-id-7129 #featured-blog-title {
+  margin: 0;
+  font-size: 2.5em !important;
+  line-height: 1.22;
+  font-weight: 700;
+  letter-spacing: -1.5px;
+  color: black;
+  text-decoration: none !important;
+}
+
+/* List of featured Pages */
+
+.page-id-7129 #list-of-features-col {
+  width: 40%;
+  margin-left: 15px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-id-7129 .list-box {
+  width: 100%;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+}
+
+.page-id-7129 .featured-list-img {
+  width: 170px;
+  height: 120px;
+  margin-right: 30px;
+  border-radius: 12px;
+}
+
+.page-id-7129 .list-info-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.page-id-7129 .list-info-box p {
+  margin: 0;
+  color: #d3a117;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 1.3em !important;
+}
+
+.page-id-7129 .list-info-box h3 {
+  color: black;
+  font-size: 1.7em !important;
+  line-height: 1.3;
+  font-weight: 700;
+  margin: unset !important;
+}
+
+.page-id-7129 #read-more-section {
+  max-width: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px !important;
+}
+
+.page-id-7129 #read-more-title-box {
+  margin-bottom: 40px !important;
+}
+
+.page-id-7129 #read-more-title {
+  color: black;
+  font-size: 52px !important;
+  text-align: center;
+  line-height: 1.15;
+  font-weight: 700;
+  letter-spacing: -1.5px;
+  margin: 0;
+}
+
+.page-id-7129 #rows-of-blogs {
+  width: calc(100% - 20px);
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.page-id-7129 .blog-box {
+  width: 30%;
+  margin-bottom: 10px !important;
+}
+
+.page-id-7129 .article-item_image {
+  width: 100%;
+  height: 200px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.page-id-7129 .read-more-blog-info p {
+  margin: 0;
+  color: #d3a117;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 1.3em;
+  margin-bottom: 10px !important;
+}
+
+.page-id-7129 .read-more-blog-info h2 {
+  color: black;
+  font-size: 1.3em !important;
+  line-height: 1.3;
+  font-weight: 700;
+  margin: 0;
+}
+
+.page-id-7129 #social-platform {
+  padding-bottom: 120px;
+}
+
+.page-id-7129 #social-platform-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.page-id-7129 .podcast-platform_icon {
+  height: 64px;
+  width: 64px;
+  display: block;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+}
+
+.page-id-7129 #row-of-socals {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.page-id-7129 #row-of-socals a {
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+
+
+.page-id-7129 #social-tag-line {
+  color: black;
+  font-size: 4em !important;
+  line-height: 1.3;
+  font-weight: 700;
+  margin: 0;
+}
+
+.page-id-7129 .social-youtube-embed {
+  margin-top: 80px;
+  border: 0;
+  border-radius: 30px !important;
+  margin-bottom: 20px !important;
+}
+
+.page-id-7129 #row-of-vidoes {
+  width: calc(100% - 20px);
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.page-id-7129 .video-box img {
+  width: 100%;
+  height: 200px;
+  border-radius: 20px !important;
+  margin-bottom: 20px !important;
+}
+
+.page-id-7129 .video-box {
+  width: 30%;
+  margin-bottom: 10px !important;
+}
+
+/* CSS */
+#button-cointainer {
+  margin-top: 40px !important;
+}
+
+.page-id-7129 .button-86 {
+  all: unset;
+  width: fit-content;
+  height: fit-content;
+  font-size: 35px !important;
+  background: transparent;
+  border: none;
+  position: relative;
+  color: #f0f0f0;
+  cursor: pointer;
+  z-index: 1;
+  padding: 10px 20px !important;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-7129 .button-86::after,
+.page-id-7129 .button-86::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: -99999;
+  transition: all .4s;
+}
+
+.page-id-7129 .button-86::before {
+  transform: translate(0%, 0%);
+  width: 100%;
+  height: 100%;
+  background: #D6A53F;
+  border-radius: 10px !important;
+}
+
+.page-id-7129 .button-86::after {
+  transform: translate(10px, 10px);
+  width: 35px;
+  height: 35px;
+  background: #ffffff15;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 50px;
+}
+
+.page-id-7129 .button-86:hover::before {
+  transform: translate(5%, 20%);
+  width: 110%;
+  height: 110%;
+}
+
+.page-id-7129 .button-86:hover::after {
+  border-radius: 10px !important;
+  transform: translate(0, 0);
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-7129 .button-86:active::after {
+  transition: 0s;
+  transform: translate(0, 5%);
+}
+
+
+@media only screen and (max-width: 1000px) {
+
+  /* Title Section*/
+
+  .page-id-7129 #blog-title-box h1 {
+    text-align: center;
+  }
+
+  /*Featured Blogs */
+  .page-id-7129 #featured-blogs {
+    width: 100vw;
+    flex-direction: column;
+  }
+
+  .page-id-7129 #main-feature-col {
+    width: calc(100% - 30px);
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+    margin-bottom: 20px;
+  }
+
+  .page-id-7129 #main-feature-col img {
+    height: 500px;
+  }
+
+  /* List Of Featured Blogs*/
+  .page-id-7129 #list-of-features-col {
+    width: calc(100% - 30px);
+  }
+
+  .page-id-7129 .featured-list-img {
+    width: 300px;
+    height: 200px;
+  }
+
+  .page-id-7129 .list-info-box {
+    align-items: flex-start;
+    justify-content: center;
+  }
+
+  .page-id-7129 .list-info-box p {
+    margin-bottom: 10px !important;
+  }
+
+  .page-id-7129 .list-info-box h3 {
+    font-size: 2.3em !important;
+  }
+
+  /* Read More */
+  .page-id-7129 .article-item_image {
+    height: 150px;
+  }
+
+  .page-id-7129 .read-more-blog-info h2 {
+    font-size: 1.3em !important;
+  }
+
+  /*Social Media */
+  .page-id-7129 #social-tag-line {
+    padding-top: 10px !important;
+    font-size: 3em !important;
+  }
+
+  /* YouTube */
+  .page-id-7129 .social-youtube-embed {
+    width: calc(100% - 20px);
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+  }
+
+  /* Youtube Links */
+  .page-id-7129 .video-box img {
+    height: 150px;
+  }
+
+  .page-id-7129 .read-more-blog-info h2 {
+    font-size: 1.3em !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  /* Page Title */
+
+  .page-id-7129 #blog-title-box p {
+    text-align: center;
+  }
+
+  /* Featured Blog */
+  .page-id-7129 #main-feature-col img {
+    height: 400px;
+  }
+
+  /* List Of Featured Blogs */
+
+  .page-id-7129 .featured-list-img {
+    width: 200px;
+    height: 100px;
+  }
+
+  .page-id-7129 .list-info-box {
+    width: 50%;
+  }
+
+  .page-id-7129 .list-info-box h3 {
+    font-size: 1.7em !important;
+  }
+
+  /* Read More */
+  .page-id-7129 #read-more-section {
+    margin-bottom: 20px !important;
+  }
+
+  .sec-row {
+    display: none !important;
+  }
+
+  .page-id-7129 #rows-of-blogs {
+    flex-direction: column;
+  }
+
+  .page-id-7129 .blog-box {
+    width: 370px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px !important;
+  }
+
+  .page-id-7129 .article-item_image {
+    height: 250px;
+    width: 370px;
+  }
+
+  /* List Of Socials */
+  .page-id-7129 #row-of-socals {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  /*Social Media */
+  .page-id-7129 #social-tag-line {
+    padding-top: 10px !important;
+    font-size: 2em !important;
+  }
+
+  .page-id-7129 .social-youtube-embed {
+    height: 350px;
+  }
+
+  /* Read More */
+  .page-id-7129 #read-more-title {
+    font-size: 42px !important;
+    text-align: center;
+  }
+
+  /* Youtube Links */
+
+  .page-id-7129 .video-box {
+    width: 370px !important;
+    margin-bottom: 20px !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .page-id-7129 .video-box img {
+    height: 250px !important;
+  }
+
+  .page-id-7129 #row-of-vidoes {
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+
+  /*Featured Blog*/
+
+  .page-id-7129 #main-feature-col {
+    width: calc(100% - 10px);
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+  }
+
+  .page-id-7129 #main-feature-col img {
+    height: 250px;
+  }
+
+  .page-id-7129 #featured-blog-title {
+    font-size: 1.7em !important;
+  }
+
+  /* List Of Featured Blogs */
+  .page-id-7129 #list-of-features-col {
+    width: calc(100% - 30px);
+  }
+
+  .page-id-7129 #list-of-features-col {
+    width: calc(100% - 10px);
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+  }
+
+  .page-id-7129 .featured-list-img {
+    width: 150px !important;
+    height: 125px !important;
+    margin-right: 10px !important;
+  }
+
+  .page-id-7129 .list-info-box h3 {
+    font-size: 1.4em !important;
+  }
+
+  /* Youtube Links */
+}
+
+@media only screen and (max-width: 370px) {
+  /*About Us */
+
+  .page-id-7129 .blog-box {
+    width: 250px;
+  }
+
+  .page-id-7129 .article-item_image {
+    width: 100%;
+    height: 200px;
+  }
+
+  /* Social Media */
+  .page-id-7129 .social-youtube-embed {
+    height: 250px;
+  }
+
+  /* Youtube Links */
+  .page-id-7129 .video-box {
+    width: 250px;
+  }
+
+  .page-id-7129 .video-box img {
+    width: 100%;
+    height: 200px;
+  }
+}
+
+.page-id-7129 .container {
+  width: unset;
+  padding-left: unset;
+  padding-right: unset;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Discover Cayman */
+.iplab-img canvas {
+  width: unset;
+}
+
+.iplavc-img canvas {
+  width: unset;
+}
+
+/* CSS */
+.button-86 {
+  margin-left: auto;
+  margin-right: auto;
+  all: unset;
+  width: fit-content;
+  height: 50px;
+  font-size: 28px;
+  background: transparent;
+  border: none;
+  position: relative;
+  color: #f0f0f0;
+  cursor: pointer;
+  z-index: 1;
+  padding: 10px 40px;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-86::after,
+.button-86::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: -99999;
+  transition: all .4s;
+}
+
+.button-86::before {
+  transform: translate(0%, 0%);
+  width: 100%;
+  height: 100%;
+  background: #D6A53F;
+  border-radius: 10px;
+}
+
+.button-86::after {
+  transform: translate(10px, 10px);
+  width: 35px;
+  height: 35px;
+  background: #ffffff15;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 50px;
+}
+
+.button-86:hover::before {
+  transform: translate(5%, 20%);
+  width: 110%;
+  height: 110%;
+}
+
+.button-86:hover::after {
+  border-radius: 10px;
+  transform: translate(0, 0);
+  width: 100%;
+  height: 100%;
+}
+
+.button-86:active::after {
+  transition: 0s;
+  transform: translate(0, 5%);
+}
+
+
+/*Concierge Fix*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+a.link-health-city {
+  top: 215px;
+  left: 480px;
+}
+
+.page-id-22 html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'GT Walsheim', sans-serif !important;
+  background-color: white;
+  overflow-x: hidden;
+}
+
+/* Our Concierge Service */
+.page-id-22 #section-1 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 100%;
+  height: fit-content;
+  background-color: white;
+}
+
+.page-id-22 #section-1-title-container {
+  padding-bottom: 50px;
+}
+
+.page-id-22 #section-1-title {
+  text-align: center;
+  font-size: 4em !important;
+  margin: 0;
+  color: #D6A53F;
+}
+
+.page-id-22 .max-width-changes {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-22 #section-1-flex-left-right {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.page-id-22 #section-1-flex-left {
+  width: 100%;
+}
+
+.page-id-22 #section-1-flex-img {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-22 #section-1-flex-left-inner {
+  height: 100%;
+  padding: 50px;
+  padding-top: 0;
+  padding-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.page-id-22 .blog-paragraph {
+  font-size: 1.5em !important;
+}
+
+@media only screen and (max-width: 960px) {
+
+  .page-id-22 #section-1-flex-img {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 100%;
+  }
+
+  .page-id-22 #section-1-flex-left-right {
+    flex-direction: column;
+  }
+
+  .page-id-22 #section-1-flex-left {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .page-id-22 #section-1-flex-left-inner {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+/* Blogs */
+
+.page-id-7129 #content .entry-title {
+  display: none;
+}
+
+.page-id-7129 .ip-banner {
+  display: none;
+}
+
+/* Changes to about us */
+.max-width-about-us {
+  width: 100%;
+  height: fit-cotent;
+}
+
+/* Signature One
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ *  */
+/*Fixs*/
+.page-id-6609 .container {
+  width: unset;
+}
+
+.page-id-6609 hr {
+  height: unset;
+}
+
+.page-id-6609 .container {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.page-id-6609 html, .page-id-6609 body {
+  margin: 0;
+  padding: 0;
+  font-family: 'GT Walsheim', sans-serif !important;
+
+  background-color: white;
+  overflow-x: hidden;
+}
+
+/* Section 1 */
+/* Landing Section*/
+.page-id-6609 #section-1 {
+  padding-top: 150px;
+  position: relative;
+  background-color: #0C353F;
+  height: fit-content;
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/landing-img.png");
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
+
+.page-id-6609 #left-right-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.page-id-6609 #left-flex {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.page-id-6609 #left-flex * {
+  margin-left: 30px !important;
+}
+
+.page-id-6609 #section-title {
+  text-align: start;
+  font-size: 4em;
+  line-height: 1;
+  color: #D6A53F;
+  margin: 0;
+  font-family: 'GT Walsheim', sans-serif !important;
+}
+
+
+.page-id-6609 #section-paragraph {
+  color: white;
+  font-size: 1.5em;
+}
+
+.page-id-6609 #right-flex {
+  height: fit-content;
+  width: fit-content;
+}
+
+.page-id-6609 #agent-img {
+  display: inline;
+  height: 700px;
+  width: 500px;
+}
+
+/* Section 2 */
+/* Fact Banner */
+
+.page-id-6609 #section-2 {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: white;
+}
+
+.page-id-6609 #section-2-3-flex {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.page-id-6609 .section-2-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.page-id-6609 .section-2-flex h1 {
+  font-size: 3em;
+  margin-right: 10px !important;
+  margin-left: 10px !important;
+  color: #D6A53F;
+}
+
+
+.page-id-6609 .section-2-flex p {
+  font-size: 2em;
+  margin-left: 10px !important;
+}
+
+.page-id-6609 .section-2-line {
+  background: grey;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* Section 3 */
+/* About Us */
+
+.page-id-6609 #section-3 {
+  padding-top: 30px;
+  padding-bottom: 140px;
+  position: relative;
+  height: fit-content;
+  background-color: #001220;
+}
+
+.page-id-6609 .custom-shape-divider-top-1660558228 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-6609 .custom-shape-divider-top-1660558228 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-6609 .custom-shape-divider-top-1660558228 .shape-fill {
+  fill: #FFFFFF;
+}
+
+.page-id-6609 #section-3-title-container {
+  padding-bottom: 50px;
+}
+
+.page-id-6609 #section-3-title {
+  text-align: center;
+  font-size: 4em;
+  margin: 0;
+  color: #D6A53F;
+}
+
+.page-id-6609 #section-3-flex-left-right {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.page-id-6609 #section-3-flex-left {
+  width: 100%;
+}
+
+.page-id-6609 #section-3-flex-left-inner {
+  height: 100%;
+  padding: 50px;
+  padding-top: 0;
+  padding-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.page-id-6609 #section-3-flex-left-inner {
+  color: white;
+  font-size: 1.3em;
+}
+
+.page-id-6609 #section-3 ul {
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  width: 100%;
+}
+
+.page-id-6609 #section-3 ul p {
+  color: white;
+  border-left: 2px #D6A53F solid;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.page-id-6609 #section-3 ul ::marker {
+  color: #001220;
+}
+
+.page-id-6609 #section-3-flex-img {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-6609 .custom-shape-divider-bottom-1660561488 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-6609 .custom-shape-divider-bottom-1660561488 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-6609 .custom-shape-divider-bottom-1660561488 .shape-fill {
+  fill: #FFFFFF;
+}
+
+
+/* Section 4 */
+/* Quote section */
+
+.page-id-6609 #section-4 {
+  background-color: white;
+  position: relative;
+  width: 100%;
+  padding-bottom: 150px;
+}
+
+.page-id-6609 #section-4 blockquote {
+  border-left: 1.5px solid #000000;
+  color: #04313D;
+  font-style: italic;
+  padding: 1em 2em;
+  position: relative;
+  transition: 0.2s border ease-in-out;
+  z-index: 0;
+}
+
+.page-id-6609 #section-4 blockquote:before {
+  content: "";
+  position: absolute;
+  top: 44%;
+  left: -4px;
+  height: 6em;
+  background-color: white;
+  width: 5px;
+  margin-top: -1em;
+}
+
+.page-id-6609 #section-4 blockquote cite {
+  text-align: center;
+  color: #BC973F;
+  display: block;
+  font-size: 2em;
+  margin-top: 0.75em;
+}
+
+.page-id-6609 #section-4 blockquote p {
+  text-align: center;
+  font-size: 2em;
+  color: #000000 !important;
+}
+
+.page-id-6609 #section-4 blockquote:after {
+  content: "''";
+  position: absolute;
+  top: 50%;
+  left: -0.5em;
+  color: #000000;
+  font-size: 5em;
+  font-family: 'GT Walsheim', sans-serif !important;
+  font-style: normal;
+  text-align: center;
+  text-indent: -2px;
+  width: 1em;
+  margin-top: -0.5em;
+  transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;
+}
+
+.page-id-6609 .custom-shape-divider-bottom-1660570211 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-6609 .custom-shape-divider-bottom-1660570211 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-6609 .custom-shape-divider-bottom-1660570211 .shape-fill {
+  fill: #0c2f38;
+}
+
+/* Section 5 */
+/* Facilities */
+
+.page-id-6609 #section-5 {
+  padding-top: 120px;
+  padding-bottom: 80px;
+  position: relative;
+  height: fit-content;
+  background-color: #0c2f38;
+}
+
+.page-id-6609 #section-5-title {
+  text-align: center;
+  font-size: 4em;
+  margin: 0;
+  color: white;
+}
+
+.page-id-6609 #section-5-title-container {
+  padding-bottom: 50px;
+}
+
+.page-id-6609 #section-5 #left-right-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-6609 #section-5 #left-flex {
+  width: fit-content;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.page-id-6609 #section-5 #left-flex * {
+  margin-bottom: 10px
+}
+
+.page-id-6609 #section-5 #section-paragraph {
+  color: white;
+  font-size: 1.3em;
+}
+
+.page-id-6609 #section-5 #right-flex {
+  height: 100%;
+  width: fit-content;
+}
+
+.page-id-6609 #section-5 #fac-img {
+  display: inline;
+  height: 600px;
+  width: 400px;
+}
+
+/* Section 6 */
+/* Video Player */
+
+.page-id-6609 #section-6 {
+  background-color: #ffffff;
+  padding-bottom: 50px;
+}
+
+.page-id-6609 #section-6-title-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.page-id-6609 #section-6-title {
+  text-align: center;
+  font-size: 4em;
+  margin: 0;
+  color: #D6A53F;
+}
+
+
+.page-id-6609 #video-container {
+  width: 100%;
+}
+
+.page-id-6609 #player {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Section 7 */
+/* Ocean view */
+
+.page-id-6609 #section-7 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  position: relative;
+  height: fit-content;
+  background-color: #122b31;
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/hakic.png");
+  background-size: cover;
+}
+
+.page-id-6609 #section-7-title-container {
+  padding-top: 50px;
+  padding-bottom: 90px;
+}
+
+.page-id-6609 #section-7-title {
+  text-align: center;
+  font-size: 4em;
+  margin: 0;
+  color: #D6A53F;
+}
+
+.page-id-6609 #section-7-flex-3 {
+  display: block;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-id-6609 #section-7-flex-1-container {
+  width: 100%;
+  height: fit-content;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 6px 6px, rgba(0, 0, 0, 0.3) 0px 10px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  margin-bottom: 30px;
+  background-color: white;
+}
+
+.page-id-6609 #section-7-flex-2-container {
+  width: 100%;
+  height: fit-content;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 6px 6px, rgba(0, 0, 0, 0.3) 0px 10px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  margin-bottom: 30px;
+  background-color: white;
+}
+
+.page-id-6609 #section-7-flex-3-container {
+  width: 100%;
+  height: fit-content;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 6px 6px, rgba(0, 0, 0, 0.3) 0px 10px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  margin-bottom: 30px;
+  background-color: white;
+}
+
+.page-id-6609 .section-7-listinging-img {
+  border-bottom: unset;
+  width: 100%;
+  height: auto;
+}
+
+.page-id-6609 .section-7-listing-info {
+  padding: 50px;
+  margin-top: 10px;
+
+  height: fit-content;
+  border-left: unset;
+  border-right: unset;
+}
+
+.page-id-6609 #section-7-listing-title {
+  color: black;
+  display: inline;
+  padding: 10px;
+  border: 2px solid #D6A53F;
+  border-left: unset;
+  border-right: unset;
+}
+
+.page-id-6609 .section-7-listing-info-para {
+  font-size: 1.5em;
+}
+
+/* Section 8 */
+
+.page-id-6609 #section-8-title-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.page-id-6609 #section-8-title {
+  text-align: center;
+  font-size: 4em;
+  margin: 0;
+  color: #D6A53F;
+}
+
+
+#section-7-right-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+/* Section 9 */
+/* ket Attractions */
+.page-id-6609 #section-9 {
+  padding-bottom: 40px;
+  position: relative;
+  height: fit-content;
+  background-color: #f2f2f2;
+}
+
+.page-id-6609 #section-9-title-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.page-id-6609 #section-9-title {
+  text-align: center;
+  font-size: 4em;
+  margin: 0;
+  color: #D6A53F;
+}
+
+.page-id-6609 #section-9 .flex-collum {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.page-id-6609 #section-9 .attraction-row {
+  margin-bottom: 40px;
+  width: 95%;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.page-id-6609 .attraction-row-img {
+  width: 350px;
+}
+
+
+.page-id-6609 #section-9 .attraction-row-img img {
+  height: 100%;
+  width: 100%;
+}
+
+.page-id-6609 #section-9 .attraction-row-text {
+  width: calc(100% - 350px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-id-6609 #section-9 .padding-div {
+  margin: 40px;
+}
+
+.page-id-6609 #section-9 .attraction-row-text h1 {
+  margin-top: 0;
+  font-size: 2.5em;
+  color: #BC973F;
+  margin-bottom: 0;
+}
+
+.page-id-6609 #section-9 .attraction-row-text p {
+  font-size: 1.4em;
+  color: black;
+  text-align: justify;
+}
+
+.page-id-6609 #section-10 {
+  position: relative;
+  height: fit-content;
+  background-color: #04313D;
+}
+
+.page-id-6609 #section-10-title-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.page-id-6609 #section-10-title {
+  text-align: center;
+  font-size: 4em;
+  margin: 0;
+  color: white;
+}
+
+.page-id-6609 #section-10 #left-right-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.page-id-6609 #section-10 #left-flex {
+  margin-top: 15px;
+  width: 90% !important;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: fit-content;
+}
+
+.page-id-6609 #section-10 #section-title {
+  text-align: start;
+  font-size: 4em;
+  line-height: 1;
+  color: #D6A53F;
+  margin: 0;
+  font-family: 'GT Walsheim', sans-serif !important;
+
+}
+
+.page-id-6609 #section-10 #section-paragraph {
+  color: white;
+  font-size: 1.5em;
+}
+
+.page-id-6609 #section-10 #right-flex {
+  height: 100%;
+  width: fit-content;
+}
+
+.page-id-6609 #section-10 #right-flex {
+  height: 100%;
+  width: fit-content;
+}
+
+.page-id-6609 #section-10 #fac-img {
+  display: inline;
+  height: 600px;
+  width: 400px;
+}
+
+.page-id-6609 #section-10-title-gold {
+  text-align: center;
+  font-size: 4em;
+  margin: 0;
+  color: #D6A53F;
+}
+
+.page-id-6609 #section-10-flex-img {
+  margin-top: auto;
+  margin-bottom: auto;
+  width: auto;
+  height: 65%;
+  display: block;
+}
+
+/* Max Width Changes */
+
+.page-id-6609 .max-width-changes {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Section 11 */
+/* Featured Listings */
+
+.page-id-6609 #section-11 {
+  position: relative;
+  width: 100%;
+  background-color: #F9F9F9;
+}
+
+.page-id-6609 #section-11-content {
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-6609 #section-11-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 90px;
+  color: #BC973F;
+  font-size: 5em;
+  text-underline-offset: 10px;
+  margin-bottom: 30px;
+}
+
+.page-id-6609 .flex-row-lots {
+  width: 100%;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.page-id-6609 .lot {
+  display: flex;
+  width: 500px;
+  height: 100%;
+  margin-bottom: 30px;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.page-id-6609 .lot .lot-img {
+  position: relative;
+  width: 500px;
+  height: 300px;
+}
+
+.page-id-6609 .lot .lot-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-6609 .lot-price {
+  transform: translate3d(0, 0, 0);
+  padding: 20px;
+  width: 60%;
+  color: white;
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 2.5em;
+  border-top: 2px solid rgba(255, 255, 255, 0.795);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.795)
+}
+
+.page-id-6609 .lot-price::before {
+  left: 0;
+  top: -2px;
+  content: '';
+  position: absolute;
+  z-index: 100;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-6609 .lot-price::after {
+  bottom: -2px;
+  right: 0;
+  content: '';
+  position: absolute;
+  z-index: 100;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-6609 .lot-info {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: 150px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-id-6609 .lot-info p {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  font-size: 1.7em;
+  text-decoration: none !important;
+  color: black;
+}
+
+.page-id-6609 .caymen-logo {
+  border-radius: 50%;
+  position: absolute;
+  padding: 2em;
+  left: 50%;
+  top: 50%;
+  z-index: 0;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: #D6A53F;
+  content: '';
+}
+
+.page-id-6609 :-webkit-any-link {
+  color: unset;
+  text-decoration: none;
+}
+
+/* Small Width Changes */
+@media only screen and (max-width: 960px) {
+
+  /* Font Size Decreases*/
+  .page-id-6609 #section-11-title {
+    font-size: 4em;
+  }
+
+  .page-id-6609 #section-10-title-gold {
+    font-size: 3em;
+  }
+
+  .page-id-6609 #section-9-title {
+    font-size: 3em;
+  }
+
+  .page-id-6609 #section-8-title {
+    font-size: 3em;
+  }
+
+  .page-id-6609 #section-6-title {
+    font-size: 3em;
+  }
+
+  /* Landing Section */
+  .page-id-6609 #section-1 {
+    padding-bottom: 75px;
+  }
+
+  .page-id-6609 #left-flex .noluck {
+    display: none;
+  }
+
+  .page-id-6609 #section-paragraph {
+    text-align: center;
+    font-size: 1.3em;
+  }
+
+  .page-id-6609 #left-flex * {
+    margin-left: 0 !important;
+  }
+
+  .page-id-6609 #section-title {
+    color: #D6A53F !important;
+    text-align: center !important;
+  }
+
+  .page-id-6609 #right-flex {
+    display: none;
+  }
+
+  /* Fact Banner */
+  .page-id-6609 #section-2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .page-id-6609 .section-2-flex p {
+    font-size: 1.5em;
+    margin-left: 0;
+  }
+
+  .page-id-6609 .section-2-flex h1 {
+    font-size: 2em;
+  }
+
+  .page-id-6609 #section-3-flex-left-inner {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  /* About Us */
+  .page-id-6609 #section-3-flex-left-right {
+    flex-direction: column;
+  }
+
+  .page-id-6609 #section-3-flex-left {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .page-id-6609 #section-3-flex-img {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 100%;
+  }
+
+  .page-id-6609 #section-3 ul p {
+    width: 100%;
+  }
+
+  /* Quotes */
+  .page-id-6609 #section-4 blockquote p {
+    font-size: 2em;
+  }
+
+  .page-id-6609 #section-4 blockquote cite {
+    font-size: 3em;
+  }
+
+  /* Facilities */
+  .page-id-6609 #section-5 #left-right-flex {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+  }
+
+  .page-id-6609 #section-5 #left-flex {
+    margin-right: 0;
+  }
+
+  .page-id-6609 #section-5 #section-paragraph {
+    text-align: center;
+  }
+
+  .page-id-6609 #section-5-flex-img {
+    height: 500px;
+    width: 300px;
+  }
+
+  .page-id-6609 #section-5 #left-flex p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  /* Signature One Video */
+  .page-id-6609 .max-width-changes iframe {
+    height: 650px;
+  }
+
+  /* Signature One Location */
+  .page-id-6609 #section-8 #iframe-small iframe {
+    height: 500px;
+  }
+
+  /* Property Types */
+  .page-id-6609 #section-7-flex-3 {
+    width: 95%;
+  }
+
+  .page-id-6609 .section-7-listing-info {
+    padding: 20px;
+  }
+
+  .page-id-6609 #section-7-listing-title {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .page-id-6609 #section-7 #content h1 {
+    text-align: center;
+  }
+
+  .page-id-6609 #section-7 #content p {
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  /* Key Attractions */
+  .page-id-6609 #section-9 .padding-div {
+    margin: 0;
+    padding: 20px;
+  }
+
+  .page-id-6609 #section-9 .attraction-row-img {
+    width: 300px;
+  }
+
+  .page-id-6609 #section-9 .attraction-row-text {
+    width: calc(100% - 300px);
+  }
+
+  /* Heritage Beach */
+  .page-id-6609 #section-10 #left-right-flex {
+    flex-direction: column;
+  }
+
+  .page-id-6609 #section-10-flex-img {
+    width: 80%;
+  }
+
+  .page-id-6609 #section-10 #left-flex {
+    width: unset;
+    align-items: center;
+  }
+
+  .page-id-6609 #section-10 #section-paragraph {
+    text-align: center;
+  }
+
+  /* Heritage Location */
+  .page-id-6609 #section-10 #iframe-small iframe {
+    height: 500px;
+  }
+
+  .page-id-6609 #section-10 #left-flex {
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  /* Featured Listings  */
+  .page-id-6609 .flex-row-lots {
+    width: 100%;
+    margin-bottom: 50px;
+    margin-left: unset;
+    margin-right: unset;
+  }
+
+  .page-id-6609 .flex-row-lots {
+    flex-direction: column;
+  }
+
+  .page-id-6609 #section8-title {
+    font-size: 3.5em;
+  }
+
+  .page-id-6609 .lot {
+    width: unset;
+    max-width: 400px;
+  }
+
+  .page-id-6609 .lot-info p {
+    margin: 20px;
+    text-align: center;
+    font-size: 1.5em;
+  }
+
+  .page-id-6609 .lot-price {
+    font-size: 2em;
+  }
+
+  .page-id-6609 .lot .lot-img {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+
+  .page-id-6609 #section-title {
+    text-align: center !important;
+    font-size: 3em;
+  }
+
+  .page-id-6609 #section-1 #section-paragraph {
+    text-align: center !important;
+    font-size: 1.3em;
+    width: 97%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* Fact Banner */
+  .page-id-6609 #section-2-3-flex {
+    width: unset;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-direction: column;
+  }
+
+  .page-id-6609 #section-2 #content h1 {
+    margin: 0;
+  }
+
+  .page-id-6609 #section-2 #content p {
+    margin: 0;
+  }
+
+  .page-id-6609 .section-2-flex {
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+
+  .page-id-6609 .section-2-flex h1 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  .page-id-6609 .section-2-flex p {
+    margin: 0 !important;
+    text-align: center;
+  }
+
+  /* Quote */
+  .page-id-6609 #section-4 blockquote cite {
+    font-size: 2em;
+  }
+
+  .page-id-6609 #section-4 blockquote {
+    padding: 0em 1em;
+  }
+
+  .page-id-6609 #section-4 blockquote p {
+    font-size: 1.5em;
+  }
+
+  /* Signature One Video */
+  .page-id-6609 .max-width-changes iframe {
+    height: 400px;
+  }
+
+  /* Key Attractions */
+  .page-id-6609 #section-9 .attraction-row-img {
+    width: 250px;
+  }
+
+  .page-id-6609 #section-9 .attraction-row-text {
+    width: calc(100% - 250px);
+  }
+
+  .page-id-6609 #section-9 .attraction-row-text p {
+    margin: 0 !important;
+    font-size: 1em;
+  }
+
+  .page-id-6609 #section-9 .attraction-row-text h1 {
+    text-align: center;
+    font-size: 1.75em;
+  }
+
+  /* Heritage Beach  */
+  .page-id-6609 #section-10 #left-flex {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .page-id-6609 #section-10-title-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 525px) {
+
+  /* Property Types */
+  .page-id-6609 .section-7-listing-info {
+    padding: 20px;
+  }
+
+  /* Key Attractions */
+  .page-id-6609 #section-9 .attraction-row {
+    flex-direction: column;
+    width: 350px;
+  }
+
+  .page-id-6609 #section-9 .attraction-row-img {
+    width: 350px;
+  }
+
+  .page-id-6609 #section-9 .attraction-row-text {
+    width: 100%;
+  }
+
+  /* Signature One Video */
+  .page-id-6609 .max-width-changes iframe {
+    height: 350px;
+  }
+}
+
+/* Signature One 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ *  */
+
+/* Banner Signature One  */
+.page-id-6609 .ip-banner {
+  display: none;
+}
+
+.page-id-6609 #content .entry-title {
+  display: none;
+}
+
+/* youtube fix */
+
+#content iframe {
+  max-width: unset;
+}
+
+.youtube-about-us {
+  border-radius: 30px;
+  margin-top: 30px !important;
+  width: 1300px;
+  max-width: 1440px;
+  height: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media only screen and (max-width: 1300px) {
+  .youtube-about-us {
+    height: 700px;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .youtube-about-us {
+    height: 500px;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .youtube-about-us {
+    height: 400px;
+    width: 100%;
+  }
+}
+
+
+@media only screen and (max-width: 400px) {
+  .youtube-about-us {
+    display: none;
+  }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+
+.land-img-fix-Absolute #parent {
+  font-family: 'GT Walsheim', sans-serif !important;
+  transform: translate3d(0, 0, 0);
+  border: 0 !important;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#content .entry-title-2 {
+  text-align: center;
+  display: block;
+  color: var(--font-color-title);
+  font-size: 95px;
+  line-height: 1;
+  text-transform: uppercase;
+  font-weight: 500;
+  left: 0;
+  position: relative;
+  font-family: var(--font-family-title);
+}
+
+.land-img-fix-Absolute #landing-page {
+  border: 0 !important;
+  width: 100%;
+  height: 900px;
+}
+
+.land-img-fix-Absolute #landing-page img {
+  border: 0 !important;
+  height: 100%;
+  width: 100%;
+}
+
+.land-img-fix-Absolute .text-temp {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text-temp h1 {
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 4em !important;
+  color: white;
+}
+
+.text-temp h4 {
+  width: 100%;
+  text-align: center;
+  font-size: 2em !important;
+  color: white;
+}
+
+.element-to-change {
+  margin-top: 900px;
+  opacity: 0;
+}
+
+@media only screen and (min-width: 1440px) {
+  .land-img-fix-Absolute #landing-page {
+    height: 80vh;
+  }
+
+  .element-to-change {
+    opacity: 0;
+    margin-top: 80vh;
+  }
+
+
+  .land-img-fix-Absolute .text-temp h1 {
+    font-size: 4em !important;
+  }
+
+  .land-img-fix-Absolute .text-temp h4 {
+    font-size: 4em !important;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+
+  /*landing page */
+  .land-img-fix-Absolute #landing-page {
+    height: 600px;
+  }
+
+  .element-to-change {
+    opacity: 0;
+    margin-top: 600px;
+  }
+
+
+  .land-img-fix-Absolute .text-temp h1 {
+    font-size: 6em !important;
+  }
+
+  .land-img-fix-Absolute .text-temp h4 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+  .land-img-fix-Absolute .text-temp h1 {
+    font-size: 3em !important;
+  }
+
+  .element-to-change {
+    opacity: 0;
+    margin-top: 500px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .land-img-fix-Absolute.text-temp h1 {
+    font-size: 2em;
+  }
+}
+
+/* Slider Changes 
+ * 
+ * 
+ * 
+ * */
+.postid-6227 .cycloneslider-template-standard {
+  width: unset !important;
+  height: 684px !important;
+}
+
+.postid-6227 .cycloneslider-template-standard .cycloneslider-slides {
+  width: unset !important;
+  height: 684px !important;
+}
+
+.postid-6227 .cycloneslider-slides {
+  width: unset !important;
+  height: 684px !important;
+}
+
+.land-img-fix #parent {
+  font-family: 'GT Walsheim', sans-serif !important;
+  transform: translate3d(0, 0, 0);
+  border: 0 !important;
+  contain: content;
+}
+
+.land-img-fix #landing-page {
+  border: 0 !important;
+  width: 100%;
+  height: 800px;
+}
+
+.land-img-fix #landing-page img {
+  border: 0 !important;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.land-img-fix #parent p {
+  margin: 0;
+}
+
+.land-img-fix .text-temp {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text-temp h1 {
+  margin: 0 !important;
+  width: 100%;
+  text-align: center;
+  font-size: 4em !important;
+  color: white;
+  line-height: 1;
+}
+
+.text-temp h4 {
+  margin: 0 !important;
+  width: 100%;
+  text-align: center;
+  font-size: 2em !important;
+  color: white;
+}
+
+@media only screen and (min-width: 1440px) {
+
+  .land-img-fix .text-temp h1 {
+    font-size: 7em !important;
+  }
+
+  .land-img-fix .text-temp h4 {
+    font-size: 3em !important;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+
+  /*landing page */
+  .land-img-fix #landing-page {
+    height: 600px;
+  }
+
+  .land-img-fix .text-temp h1 {
+    font-size: 5em !important;
+  }
+
+  .land-img-fix .text-temp h4 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+  .land-img-fix .text-temp h1 {
+    font-size: 3em !important;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .land-img-fix .text-temp h1 {
+    font-size: 2em !important;
+  }
+}
+
+/* Cayman Brac */
+.page-id-25 .max-width-div {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-25 #parent {
+  transform: translate3d(0, 0, 0);
+
+  border: 0 !important;
+  contain: content;
+}
+
+.page-id-25 #landing-page {
+  border: 0 !important;
+  width: 100%;
+  height: 900px;
+}
+
+.page-id-25 #landing-page img {
+  border: 0 !important;
+  height: 100%;
+  width: 100%;
+}
+
+.page-id-25 .text-temp {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  padding: 2em;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.page-id-25 .text-temp h1 {
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 8em !important;
+  color: white;
+}
+
+.page-id-25 .text-temp h4 {
+  width: 100%;
+  text-align: center;
+  font-size: 2em !important;
+  color: white;
+}
+
+.page-id-25 #section2 {
+  border: 0 !important;
+  background-color: #04313D;
+  contain: content;
+  padding-bottom: 200px;
+  padding-top: 100px;
+}
+
+.page-id-25 #about-us-title {
+  text-align: center;
+  width: 100%;
+  color: #D6A53F;
+  font-size: 4em;
+  text-underline-offset: 10px;
+}
+
+.page-id-25 .left-right-img {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+}
+
+.page-id-25 .left-right-img-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-25 .left-img::before {
+  transform: translateZ(-1px);
+  width: 80px;
+  height: 80px;
+  margin-left: -50px;
+  margin-top: -50px;
+  background: #D6A53F;
+  content: '';
+  display: inline-block;
+}
+
+.page-id-25 .left-img {
+  transform-style: preserve-3d;
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/07/5f301fc9-ec9d-49d5-953e-b48299977e07.jpg");
+  width: 400px;
+  height: 600px;
+  background-size: cover;
+}
+
+.page-id-25 .left-img-2 {
+  transform-style: preserve-3d;
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/food.png");
+  width: 400px;
+  height: 600px;
+  background-size: cover;
+}
+
+.page-id-25 .left-img-2::before {
+  transform: translateZ(-1px);
+  width: 80px;
+  height: 80px;
+  margin-left: -50px;
+  margin-top: -50px;
+  background: #D6A53F;
+  content: '';
+  display: inline-block;
+}
+
+.page-id-25 .left-img-2::after {
+  transform: translateZ(-1px);
+  position: absolute;
+  border-radius: 50%;
+  bottom: -50px;
+  right: -50px;
+  width: 100px;
+  height: 100px;
+  background: #D6A53F;
+  content: '';
+  display: inline-block;
+}
+
+.page-id-25 .left-img::after {
+  transform: translateZ(-1px);
+  position: absolute;
+  border-radius: 50%;
+  bottom: -50px;
+  right: -50px;
+  width: 100px;
+  height: 100px;
+  background: #D6A53F;
+  content: '';
+  display: inline-block;
+}
+
+.page-id-25 .right-text {
+  width: 50%;
+}
+
+.page-id-25 .right-text p {
+  text-align: justify;
+  color: white;
+  font-size: 1.3em;
+}
+
+.page-id-25 #section3 {
+  border: 0 !important;
+  width: 100vw;
+  background-color: #04313D;
+  contain: content;
+}
+
+.page-id-25 #Key-attractions-title {
+  padding-top: 150px;
+  width: 100%;
+  text-align: center;
+  color: #BC973F;
+  font-size: 5em;
+  text-underline-offset: 10px;
+}
+
+.page-id-25 .flex-collum {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.page-id-25 .attraction-row {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 90%;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.page-id-25 .attraction-row-img {
+  width: 350px;
+
+}
+
+.page-id-25 .attraction-row-img img {
+  height: 100%;
+  width: 100%;
+}
+
+.page-id-25 .attraction-row-text {
+  width: calc(100% - 350px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-id-25 .padding-div {
+  margin: 40px;
+}
+
+.page-id-25 .attraction-row-text h1 {
+  margin-top: 0;
+  font-size: 2.5em;
+  color: #BC973F;
+  margin-bottom: 0;
+}
+
+.page-id-25 .attraction-row-text p {
+  font-size: 1.4em;
+  color: black;
+  text-align: justify;
+}
+
+.page-id-25 #section4 {
+  position: relative;
+  width: 100%;
+  background-color: white;
+}
+
+.page-id-25 #section4-content {
+  padding-top: 150px;
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-25 #section4-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 90px;
+
+  color: #BC973F;
+  font-size: 5em;
+  text-underline-offset: 10px;
+}
+
+.page-id-25 .padding-div-large {
+  padding: 100px;
+  padding-top: 0;
+  display: inline-block;
+}
+
+.page-id-25 .section4-img-float {
+  max-width: 600px;
+  width: 600px;
+  height: 600px;
+  float: left;
+}
+
+.page-id-25 .padding-div-large p {
+  font-size: 1.5em;
+  color: black;
+  text-align: justify;
+}
+
+.page-id-25 .flex-row-down {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.page-id-25 .img-flex {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-id-25 .img-and-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.page-id-25 #section5 {
+  position: relative;
+  background-color: #F9F9F9;
+}
+
+.page-id-25 #section5-content {
+  padding-top: 200px;
+  padding-bottom: 150px;
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-25 #section6 {
+  position: relative;
+  width: 100%;
+  background-color: #04313D;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.page-id-25 #section6 ul p {
+  border-left: 2px #D6A53F solid;
+  padding-left: 15px;
+}
+
+.page-id-25 #section6 ul ::marker {
+  color: #04313D;
+}
+
+.page-id-25 #section6-content {
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-25 #section6-title {
+  margin-top: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 4em;
+}
+
+.page-id-25 #section7 {
+  position: relative;
+  padding-top: 150px;
+  width: 100%;
+  background-color: white;
+}
+
+.page-id-25 #section7 .max-width-div {
+  max-width: 1660px;
+}
+
+.page-id-25 #section7-content {
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 100px;
+}
+
+.page-id-25 #section7-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 90px;
+  color: #BC973F;
+  font-size: 5em;
+  text-underline-offset: 10px;
+  margin-bottom: 30px;
+}
+
+.page-id-25 #section7-margin {
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-bottom: 100px;
+}
+
+.page-id-25 #section7-margin p {
+  font-size: 2em;
+}
+
+.page-id-25 #section7-img {
+  width: 100%;
+  height: auto;
+  border-radius: 40px;
+}
+
+.page-id-25 .youtube {
+  width: 100%;
+  height: 800px;
+}
+
+.page-id-25 #section8 {
+  position: relative;
+  width: 100%;
+  background-color: #04313D;
+}
+
+.page-id-25 #section8-content {
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-25 #section8-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 90px;
+  color: white;
+  font-size: 5em;
+  text-underline-offset: 10px;
+  margin-bottom: 30px;
+}
+
+.page-id-25 .flex-row-lots {
+  width: 100%;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.page-id-25 .lot {
+  display: flex;
+  width: 500px;
+  height: 100%;
+  margin-bottom: 30px;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.page-id-25 .lot .lot-img {
+  position: relative;
+  width: 500px;
+  height: 300px;
+}
+
+.page-id-25 .lot .lot-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-25 .lot-price {
+  padding: 20px;
+  width: 60%;
+  color: white;
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 2.5em;
+  border-top: 2px solid rgba(255, 255, 255, 0.795);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.795)
+}
+
+.page-id-25 .lot-price::before {
+  left: 0;
+  top: -2px;
+  content: '';
+  position: absolute;
+  z-index: 100;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-25 .lot-price::after {
+  bottom: -2px;
+  right: 0;
+  content: '';
+  position: absolute;
+  z-index: 100;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-25 .lot-info {
+  z-index: 2;
+  width: 100%;
+  height: 150px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-id-25 .lot-info p {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 1.7em;
+  text-decoration: none !important;
+  color: black;
+}
+
+.page-id-25 .caymen-logo {
+  border-radius: 50%;
+  position: absolute;
+  padding: 2em;
+  left: 50%;
+  top: 50%;
+  z-index: 0;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: #D6A53F;
+  content: '';
+}
+
+.page-id-25 :-webkit-any-link {
+  color: unset;
+  text-decoration: none;
+}
+
+/* Do Not Edit */
+.page-id-25 blockquote {
+  border-left: 1.5px solid #000000;
+  color: #04313D;
+  font-style: italic;
+  padding: 1em 2em;
+  position: relative;
+  transition: 0.2s border ease-in-out;
+  z-index: 0;
+}
+
+.page-id-25 blockquote:before {
+  content: "";
+  position: absolute;
+  top: 44%;
+  left: -4px;
+  height: 6em;
+  background-color: #F9F9F9;
+  width: 5px;
+  margin-top: -1em;
+}
+
+.page-id-25 blockquote cite {
+  text-align: center;
+  color: #BC973F;
+  display: block;
+  font-size: 4em;
+  margin-top: 0.75em;
+}
+
+.page-id-25 blockquote p {
+  font-size: 3em;
+  color: #000000 !important;
+}
+
+.page-id-25 blockquote:after {
+  content: "''";
+  position: absolute;
+  top: 50%;
+  left: -0.5em;
+  color: #000000;
+  font-size: 5em;
+  font-family: 'GT Walsheim', sans-serif !important;
+  font-style: normal;
+  text-align: center;
+  text-indent: -2px;
+  width: 1em;
+  margin-top: -0.5em;
+  transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;
+}
+
+/* Do Not Edit */
+.page-id-25 .overlay {
+  position: relative;
+  display: inline-block;
+  --border-style: 2px solid rgb(206, 164, 27);
+  --border-space: 20px;
+}
+
+.page-id-25 .overlay-element {
+  position: absolute;
+  width: 150px;
+  /* controls the length of the borders */
+  height: 100px;
+  /* controls the height of the borders */
+}
+
+.page-id-25 .overlay .top-left {
+  margin: -40px;
+  border-left: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  left: var(--border-space);
+}
+
+.page-id-25 .overlay .top-right {
+  margin: -40px;
+  border-right: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-25 .overlay .bottom-left {
+  margin: -40px;
+  border-left: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  left: var(--border-space);
+}
+
+.page-id-25 .overlay .bottom-right {
+  margin: -40px;
+  border-right: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  right: var(--border-space);
+}
+
+/* Do Not Edit */
+.page-id-25 .custom-shape-divider-bottom-1659972999 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-25 .custom-shape-divider-bottom-1659972999 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 132px;
+}
+
+.page-id-25 .custom-shape-divider-bottom-1659972999 .shape-fill {
+  fill: #F9F9F9;
+}
+
+.page-id-25 .custom-shape-divider-top-1660142279 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-25 .custom-shape-divider-top-1660142279 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-25 .custom-shape-divider-top-1660142279 .shape-fill {
+  fill: #F9F9F9;
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660142158 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660142158 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660142158 .shape-fill {
+  fill: #F9F9F9;
+}
+
+.page-id-25 .custom-shape-divider-top-1660142470 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-25 .custom-shape-divider-top-1660142470 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-25 .custom-shape-divider-top-1660142470 .shape-fill {
+  fill: #04313D;
+}
+
+.page-id-25 .custom-shape-divider-top-1660034806 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-25 .custom-shape-divider-top-1660034806 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-25 .custom-shape-divider-top-1660034806 .shape-fill {
+  fill: #F2F2F2;
+}
+
+.page-id-25 .custom-shape-divider-top-1660042866 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-25 .custom-shape-divider-top-1660042866 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 220px;
+}
+
+.page-id-25 .custom-shape-divider-top-1660042866 .shape-fill {
+  fill: #04313D;
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660047418 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660047418 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 120px;
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660047418 .shape-fill {
+  fill: #04313D;
+}
+
+.page-id-25 .custom-shape-divider-top-1660049621 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-25 .custom-shape-divider-top-1660049621 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 135px;
+  transform: rotateY(180deg);
+}
+
+.page-id-25 .custom-shape-divider-top-1660049621 .shape-fill {
+  fill: #04313D;
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660052826 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660052826 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 135px;
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660052826 .shape-fill {
+  fill: #04313D;
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660057737 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660057737 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 135px;
+}
+
+.page-id-25 .custom-shape-divider-bottom-1660057737 .shape-fill {
+  fill: #04313D;
+}
+
+/* Do Not Edit*/
+
+.page-id-25 #section6 .blog-paragraph {
+  text-align: justify !important;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-25 details {
+  display: block;
+}
+
+.page-id-25 summary {
+  font-size: 1.5em;
+  font-weight: 600;
+  background-color: #d6a53f;
+  color: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  outline: none;
+  border-radius: 0.25rem;
+  text-align: left;
+  cursor: pointer;
+  position: relative;
+}
+
+.page-id-25 .faq__content {
+  padding-bottom: 30px;
+}
+
+.page-id-25 .faq__content p {
+  color: white;
+  font-size: 1.3em;
+}
+
+@media only screen and (min-width: 1440px) {
+  .page-id-25 #landing-page {
+    height: 80vh;
+  }
+
+  .page-id-25 .text-temp h1 {
+    font-size: 8em !important;
+  }
+
+  .page-id-25 .text-temp h4 {
+    font-size: 4em !important;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  .page-id-25 #section4-title {
+    font-size: 4em;
+  }
+
+  .page-id-25 #section6 ul p {
+    padding-left: unset;
+    border-left: unset;
+  }
+
+  .page-id-25 #section6 ul ::marker {
+    list-style-position: inside;
+    color: #D6A53F;
+    font-size: 2em;
+    text-align: center !important;
+    vertical-align: middle;
+  }
+
+  /*landing page */
+  .page-id-25 #landing-page {
+    height: 600px;
+  }
+
+  .page-id-25 .text-temp h1 {
+    font-size: 6em !important;
+  }
+
+  .page-id-25 .text-temp h4 {
+    display: none;
+  }
+
+  /* About Grand Cayman */
+  .page-id-25 .page-id-25 #section2 {
+    padding-top: unset;
+  }
+
+  .page-id-25 .left-right-img {
+    flex-direction: column;
+  }
+
+  .page-id-25 .left-right-img-2 {
+    max-width: 1600px;
+    flex-direction: column;
+  }
+
+  .page-id-25 .right-text {
+    padding-top: 50px;
+    width: 80%;
+  }
+
+  /* Key Attractions */
+
+  .page-id-25 .padding-div {
+    margin: 0;
+  }
+
+  .page-id-25 .attraction-row-img {
+    width: 300px;
+  }
+
+  .page-id-25 .attraction-row-text {
+    width: calc(100% - 300px);
+  }
+
+  /* George Town*/
+  .page-id-25 #section4 .overlay {
+    --border-space: unset;
+    --border-style: unset;
+  }
+
+  .page-id-25 .padding-div-large {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .page-id-25 .attraction-row {
+    width: 100%;
+  }
+
+  .page-id-25 .attraction-row-text p {
+    font-size: 1.3em;
+  }
+
+  .page-id-25 .attraction-row-text h1 {
+    font-size: 2em;
+    text-align: center;
+  }
+
+  .page-id-25 .padding-div {
+    padding: 20px;
+  }
+
+  /* Owen Airport */
+  .page-id-25 #section7-margin p {
+    font-size: 1.5em;
+  }
+
+  /* Featured Lots */
+  .page-id-25 .flex-row-lots {
+    width: 100%;
+    margin-bottom: 50px;
+    margin-left: unset;
+    margin-right: unset;
+  }
+
+  .page-id-25 .flex-row-lots {
+    flex-direction: column;
+  }
+
+  .page-id-25 #section8-title {
+    font-size: 3.5em;
+  }
+
+  .page-id-25 .lot {
+    width: unset;
+    max-width: 400px;
+    margin-bottom: 100px;
+  }
+
+  .page-id-25 .lot-info p {
+    margin: 20px;
+    text-align: center;
+    font-size: 1.5em;
+  }
+
+  .page-id-25 .lot-price {
+    font-size: 2em;
+  }
+
+  .page-id-25 .lot .lot-img {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+
+  /* Key Attractions */
+  .page-id-25 #Key-attractions-title {
+    font-size: 4em;
+  }
+
+  .page-id-25 .attraction-row-img {
+    width: 250px;
+  }
+
+  .page-id-25 .attraction-row-text {
+    width: calc(100% - 250px);
+  }
+
+  .page-id-25 .attraction-row-text p {
+    font-size: 1em;
+  }
+
+  .page-id-25 .attraction-row-text h1 {
+    font-size: 1.75em;
+  }
+
+  /* George Town */
+  .page-id-25 .section4-img-float {
+    width: 100%;
+    height: 400px;
+  }
+
+  .page-id-25 #section4-content {
+    padding-top: 100px;
+  }
+
+  /* Quote */
+  .page-id-25 blockquote p {
+    text-align: justify;
+    font-size: 2em;
+  }
+
+  .page-id-25 blockquote cite {
+    font-size: 3em;
+  }
+
+  /* Five Areas */
+  .page-id-25 #section6-title {
+    font-size: 3em;
+  }
+
+  .page-id-25 #section6 .blog-paragraph {
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+  }
+
+  /* Owen Airport */
+  .page-id-25 #section7-title {
+    font-size: 3em;
+  }
+
+  .page-id-25 #section7-margin {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .page-id-25 #section7-margin p {
+    text-align: justify;
+  }
+
+  .page-id-25 .youtube {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 525px) {
+
+  /* About Grand Cayman */
+  .page-id-25 .left-img {
+    width: 400px;
+    height: 500px;
+  }
+
+  /* Key Attractions */
+  .page-id-25 .attraction-row {
+    flex-direction: column;
+    width: 350px;
+  }
+
+  .page-id-25 .attraction-row-img {
+    width: 350px;
+  }
+
+  .page-id-25 .attraction-row-text {
+    width: 100%;
+  }
+
+  /* Quote */
+  .page-id-25 blockquote p {
+    font-size: 1.3em;
+  }
+
+  .page-id-25 blockquote cite {
+    font-size: 2em;
+  }
+
+  .page-id-25 blockquote {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+
+  /* About Grand Cayman */
+  .page-id-25 .left-img {
+    width: 250px;
+    height: 400px;
+  }
+
+  .page-id-25 .section4-img-float {
+    width: 100%;
+    height: 300px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .page-id-25 #landing-page {
+    display: none;
+  }
+}
+
+/* Little Cayman */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'GT Walsheim', sans-serif !important;
+}
+
+#main-wrapper {
+  overflow: hidden;
+}
+
+.page-id-24 .max-width-div {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-24 #parent {
+  transform: translate3d(0, 0, 0);
+
+  border: 0 !important;
+  contain: content;
+}
+
+.page-id-24 #landing-page {
+  border: 0 !important;
+  width: 100%;
+  height: 900px;
+}
+
+.page-id-24 #landing-page img {
+  border: 0 !important;
+  height: 100%;
+  width: 100%;
+}
+
+.page-id-24 .text-temp {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  padding: 2em;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.page-id-24 .text-temp h1 {
+  padding: 10px;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 8em;
+  color: white;
+}
+
+.page-id-24 .text-temp h4 {
+  width: 100%;
+  text-align: center;
+  font-size: 2em;
+  color: white;
+}
+
+.page-id-24 #section2 {
+  border: 0 !important;
+  background-color: #04313D;
+  contain: content;
+  padding-bottom: 200px;
+  padding-top: 100px;
+}
+
+.page-id-24 #about-us-title {
+  text-align: center;
+  width: 100%;
+  color: #D6A53F;
+  font-size: 4em;
+  text-underline-offset: 10px;
+}
+
+.page-id-24 .left-right-img {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+}
+
+.page-id-24 .left-right-img-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-24 .left-img::before {
+  transform: translateZ(-1px);
+  width: 80px;
+  height: 80px;
+  margin-left: -50px;
+  margin-top: -50px;
+  background: #D6A53F;
+  content: '';
+  display: inline-block;
+}
+
+.page-id-24 .left-img {
+  transform-style: preserve-3d;
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/Untitled-design-2022-08-12T104903.434.png");
+  width: 400px;
+  height: 600px;
+  background-size: cover;
+}
+
+.page-id-24 .left-img-2 {
+  transform-style: preserve-3d;
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/Untitled-design-2022-08-12T105032.355.png");
+  width: 400px;
+  height: 600px;
+  background-size: cover;
+}
+
+.page-id-24 .left-img-2::before {
+  transform: translateZ(-1px);
+  width: 80px;
+  height: 80px;
+  margin-left: -50px;
+  margin-top: -50px;
+  background: #D6A53F;
+  content: '';
+  display: inline-block;
+}
+
+.page-id-24 .left-img-2::after {
+  transform: translateZ(-1px);
+  position: absolute;
+  border-radius: 50%;
+  bottom: -50px;
+  right: -50px;
+  width: 100px;
+  height: 100px;
+  background: #D6A53F;
+  content: '';
+  display: inline-block;
+}
+
+.page-id-24 .left-img::after {
+  transform: translateZ(-1px);
+  position: absolute;
+  border-radius: 50%;
+  bottom: -50px;
+  right: -50px;
+  width: 100px;
+  height: 100px;
+  background: #D6A53F;
+  content: '';
+  display: inline-block;
+}
+
+.page-id-24 .right-text {
+  width: 50%;
+}
+
+.page-id-24 .right-text p {
+  text-align: justify;
+  color: white;
+  font-size: 1.3em;
+}
+
+.page-id-24 #section3 {
+  border: 0 !important;
+  width: 100vw;
+  background-color: #04313D;
+  contain: content;
+}
+
+.page-id-24 #Key-attractions-title {
+  padding-top: 150px;
+  width: 100%;
+  text-align: center;
+  color: #BC973F;
+  font-size: 5em;
+  text-underline-offset: 10px;
+}
+
+.page-id-24 .flex-collum {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.page-id-24 .attraction-row {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 90%;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.page-id-24 .attraction-row-img {
+  width: 350px;
+}
+
+.page-id-24 .attraction-row-img img {
+  height: 100%;
+  width: 100%;
+}
+
+.page-id-24 .attraction-row-text {
+  width: calc(100% - 350px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-id-24 .padding-div {
+  margin: 40px;
+}
+
+.page-id-24 .attraction-row-text h1 {
+  margin-top: 0;
+  font-size: 2.5em;
+  color: #BC973F;
+  margin-bottom: 0;
+}
+
+.page-id-24 .attraction-row-text p {
+  font-size: 1.4em;
+  color: black;
+  text-align: justify;
+}
+
+.page-id-24 #section4 {
+  position: relative;
+  width: 100%;
+  background-color: white;
+}
+
+.page-id-24 #section4-content {
+  padding-top: 150px;
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-24 #section4-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 90px;
+  color: #BC973F;
+  font-size: 5em;
+  text-underline-offset: 10px;
+}
+
+.page-id-24 .padding-div-large {
+  padding: 100px;
+  padding-top: 0;
+  display: inline-block;
+}
+
+.page-id-24 .section4-img-float {
+  max-width: 600px;
+  width: 600px;
+  height: 600px;
+  float: left;
+}
+
+.page-id-24 .padding-div-large p {
+  font-size: 1.5em;
+  color: black;
+  text-align: justify;
+}
+
+.page-id-24 .flex-row-down {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.page-id-24 .img-flex {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-id-24 .img-and-text {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.page-id-24 #section5 {
+  position: relative;
+  background-color: white;
+}
+
+.page-id-24 #section5-content {
+  padding-top: 200px;
+  padding-bottom: 150px;
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-24 #section6 {
+  position: relative;
+  width: 100%;
+  background-color: #04313D;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.page-id-24 #section6 ul p {
+  border-left: 2px #D6A53F solid;
+  padding-left: 15px;
+
+}
+
+.page-id-24 #section6 ul ::marker {
+  color: #04313D;
+}
+
+.page-id-24 #section6-content {
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-24 #section6-title {
+  margin-top: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 4em;
+}
+
+.page-id-24 #section7 {
+  position: relative;
+  padding-top: 150px;
+  width: 100%;
+  background-color: white;
+}
+
+.page-id-24 #section7 .max-width-div {
+  max-width: 1660px;
+}
+
+.page-id-24 #section7-content {
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 100px;
+}
+
+.page-id-24 #section7-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 90px;
+  color: #BC973F;
+  font-size: 5em;
+  text-underline-offset: 10px;
+  margin-bottom: 30px;
+}
+
+.page-id-24 #section7-margin {
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-bottom: 100px;
+}
+
+.page-id-24 #section7-margin p {
+  font-size: 2em;
+}
+
+.page-id-24 #section7-img {
+  width: 100%;
+  height: auto;
+  border-radius: 40px;
+}
+
+.page-id-24 .youtube {
+  width: 100%;
+  height: 800px;
+}
+
+.page-id-24 #section8 {
+  position: relative;
+  width: 100%;
+  background-color: #F9F9F9;
+}
+
+.page-id-24 #section8-content {
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-24 #section8-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 90px;
+  color: #BC973F;
+  font-size: 5em;
+  text-underline-offset: 10px;
+  margin-bottom: 30px;
+}
+
+.page-id-24 .flex-row-lots {
+  width: 100%;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.page-id-24 .lot {
+  display: flex;
+  width: 500px;
+  height: 100%;
+  margin-bottom: 30px;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.page-id-24 .lot .lot-img {
+  position: relative;
+  width: 500px;
+  height: 300px;
+}
+
+.page-id-24 .lot .lot-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-24 .lot-price {
+  padding: 20px;
+  width: 60%;
+  color: white;
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 2.5em;
+  border-top: 2px solid rgba(255, 255, 255, 0.795);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.795)
+}
+
+.page-id-24 .lot-price::before {
+  left: 0;
+  top: -2px;
+  content: '';
+  position: absolute;
+  z-index: 100;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-24 .lot-price::after {
+  bottom: -2px;
+  right: 0;
+  content: '';
+  position: absolute;
+  z-index: 100;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-24 .lot-info {
+  z-index: 2;
+  width: 100%;
+  height: 150px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-id-24 .lot-info p {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 1.7em;
+  text-decoration: none !important;
+  color: black;
+}
+
+.page-id-24 .caymen-logo {
+  border-radius: 50%;
+  position: absolute;
+  padding: 2em;
+  left: 50%;
+  top: 50%;
+  z-index: 0;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: #D6A53F;
+  content: '';
+}
+
+.page-id-24 :-webkit-any-link {
+  color: unset;
+  text-decoration: none;
+}
+
+/* Do Not Edit */
+.page-id-24 blockquote {
+  border-left: 1.5px solid #000000;
+  color: #04313D;
+  font-style: italic;
+  padding: 1em 2em;
+  position: relative;
+  transition: 0.2s border ease-in-out;
+  z-index: 0;
+}
+
+@media only screen and (max-width: 791px) {
+  .page-id-24 blockquote:before {
+    display: none;
+  }
+
+  .page-id-24 blockquote:after {
+    display: none;
+  }
+
+  .page-id-24 #content blockquote {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .page-id-24 blockquote {
+    border-left: none !important;
+  }
+}
+
+@media only screen and (max-width: 791px) {
+  .page-id-25 blockquote:before {
+    display: none;
+  }
+
+  .page-id-25 blockquote:after {
+    display: none;
+  }
+
+  .page-id-25 #content blockquote {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .page-id-25 blockquote {
+    border-left: none !important;
+  }
+}
+
+.page-id-24 blockquote:before {
+  content: "";
+  position: absolute;
+  top: 44%;
+  left: -4px;
+  height: 6em;
+  background-color: white;
+  width: 5px;
+  margin-top: -3em;
+}
+
+.page-id-24 blockquote cite {
+  text-align: center;
+  color: #BC973F;
+  display: block;
+  font-size: 4em;
+  margin-top: 0.75em;
+}
+
+.page-id-24 blockquote p {
+  font-size: 3em;
+  color: #000000 !important;
+}
+
+.page-id-24 blockquote:after {
+  content: "''";
+  position: absolute;
+  top: 50%;
+  left: -0.5em;
+  color: #000000;
+  font-size: 8em !important;
+  font-family: "Ionicons";
+  font-style: normal;
+  text-align: center;
+  text-indent: -2px;
+  width: 1em;
+  margin-top: -0.5em;
+  transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;
+}
+
+/* Do Not Edit */
+.page-id-24 .overlay {
+  position: relative;
+  display: inline-block;
+  --border-style: 2px solid rgb(206, 164, 27);
+  --border-space: 20px;
+}
+
+.page-id-24 .overlay-element {
+  position: absolute;
+  width: 150px;
+  /* controls the length of the borders */
+  height: 100px;
+  /* controls the height of the borders */
+}
+
+.page-id-24 .overlay .top-left {
+  margin: -40px;
+  border-left: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  left: var(--border-space);
+}
+
+.page-id-24 .overlay .top-right {
+  margin: -40px;
+  border-right: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-24 .overlay .bottom-left {
+  margin: -40px;
+  border-left: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  left: var(--border-space);
+}
+
+.page-id-24 .overlay .bottom-right {
+  margin: -40px;
+  border-right: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  right: var(--border-space);
+}
+
+/* Do Not Edit */
+.page-id-24 .custom-shape-divider-bottom-1659972999 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-24 .custom-shape-divider-bottom-1659972999 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 132px;
+}
+
+.page-id-24 .custom-shape-divider-bottom-1659972999 .shape-fill {
+  fill: white;
+}
+
+.page-id-24 .custom-shape-divider-top-1660142279 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-24 .custom-shape-divider-top-1660142279 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-24 .custom-shape-divider-top-1660142279 .shape-fill {
+  fill: white;
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660142158 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660142158 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660142158 .shape-fill {
+  fill: #F9F9F9;
+}
+
+.page-id-24 .custom-shape-divider-top-1660142470 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-24 .custom-shape-divider-top-1660142470 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-24 .custom-shape-divider-top-1660142470 .shape-fill {
+  fill: #04313D;
+}
+
+.page-id-24 .custom-shape-divider-top-1660034806 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-24 .custom-shape-divider-top-1660034806 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.page-id-24 .custom-shape-divider-top-1660034806 .shape-fill {
+  fill: #F2F2F2;
+}
+
+.page-id-24 .custom-shape-divider-top-1660042866 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-24 .custom-shape-divider-top-1660042866 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 220px;
+}
+
+.page-id-24 .custom-shape-divider-top-1660042866 .shape-fill {
+  fill: #04313D;
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660047418 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660047418 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 120px;
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660047418 .shape-fill {
+  fill: #04313D;
+}
+
+.page-id-24 .custom-shape-divider-top-1660049621 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-24 .custom-shape-divider-top-1660049621 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 135px;
+  transform: rotateY(180deg);
+}
+
+.page-id-24 .custom-shape-divider-top-1660049621 .shape-fill {
+  fill: #04313D;
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660052826 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660052826 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 135px;
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660052826 .shape-fill {
+  fill: #04313D;
+}
+
+
+.page-id-24 .custom-shape-divider-bottom-1660057737 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660057737 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 135px;
+}
+
+.page-id-24 .custom-shape-divider-bottom-1660057737 .shape-fill {
+  fill: #04313D;
+}
+
+
+/* Do Not Edit*/
+
+.page-id-24 #section6 .blog-paragraph {
+  text-align: justify !important;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-24 details {
+  display: block;
+}
+
+.page-id-24 summary {
+  font-size: 1.5em;
+  font-weight: 600;
+  background-color: #d6a53f;
+  color: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  outline: none;
+  border-radius: 0.25rem;
+  text-align: left;
+  cursor: pointer;
+  position: relative;
+}
+
+.page-id-24 .faq__content {
+  padding-bottom: 30px;
+}
+
+.page-id-24 .faq__content p {
+  color: white;
+  font-size: 1.3em;
+}
+
+@media only screen and (min-width: 1440px) {
+  .page-id-24 #landing-page {
+    height: 80vh;
+  }
+
+  .page-id-24 .text-temp h1 {
+    font-size: 12em;
+  }
+
+  .page-id-24 .text-temp h4 {
+    font-size: 4em;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+
+  .page-id-24 #section4-title {
+    font-size: 4em;
+  }
+
+  .page-id-24 #section6 ul p {
+    padding-left: unset;
+    border-left: unset;
+  }
+
+  .page-id-24 #section6 ul ::marker {
+    list-style-position: inside;
+    color: #D6A53F;
+    font-size: 2em;
+    text-align: center !important;
+    vertical-align: middle;
+
+  }
+
+  /*landing page */
+  .page-id-24 #landing-page {
+    height: 600px;
+  }
+
+  .page-id-24 .text-temp h1 {
+    font-size: 6em;
+  }
+
+  .page-id-24 .text-temp h4 {
+    display: none;
+  }
+
+  /* About Grand Cayman */
+  .page-id-24 #section2 {
+    padding-top: unset;
+  }
+
+  .page-id-24 .left-right-img {
+    flex-direction: column;
+  }
+
+  .page-id-24 .left-right-img-2 {
+    max-width: 1600px;
+    flex-direction: column;
+  }
+
+  .page-id-24 .right-text {
+    padding-top: 50px;
+    width: 80%;
+  }
+
+  /* Key Attractions */
+
+  .page-id-24 .padding-div {
+    margin: 0;
+  }
+
+
+  .page-id-24 .attraction-row-img {
+    width: 300px;
+  }
+
+  .page-id-24 .attraction-row-text {
+    width: calc(100% - 300px);
+  }
+
+  /* George Town*/
+
+
+  .page-id-24 #section4 .overlay {
+    --border-space: unset;
+    --border-style: unset;
+  }
+
+  .page-id-24 .padding-div-large {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .page-id-24 .attraction-row {
+    width: 100%;
+  }
+
+  .page-id-24 .attraction-row-text p {
+    font-size: 1.3em;
+  }
+
+  .page-id-24 .attraction-row-text h1 {
+    font-size: 2em;
+    text-align: center;
+  }
+
+  .page-id-24 .padding-div {
+    padding: 20px;
+  }
+
+  /* Owen Airport */
+  .page-id-24 #section7-margin p {
+    font-size: 1.5em;
+  }
+
+  /* Featured Lots */
+  .page-id-24 .flex-row-lots {
+    width: 100%;
+    margin-bottom: 50px;
+    margin-left: unset;
+    margin-right: unset;
+  }
+
+  .page-id-24 .flex-row-lots {
+    flex-direction: column;
+  }
+
+  .page-id-24 #section8-title {
+    font-size: 3.5em;
+  }
+
+  .page-id-24 .lot {
+    width: unset;
+    max-width: 400px;
+    margin-bottom: 100px;
+  }
+
+  .page-id-24 .lot-info p {
+    margin: 20px;
+    text-align: center;
+    font-size: 1.5em;
+  }
+
+  .page-id-24 .lot-price {
+    font-size: 2em;
+  }
+
+  .page-id-24 .lot .lot-img {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+
+  .page-id-24 #landing-page {
+    display: none;
+  }
+
+  /* Key Attractions */
+  .page-id-24 #Key-attractions-title {
+    font-size: 4em;
+  }
+
+  .page-id-24 .attraction-row-img {
+    width: 250px;
+  }
+
+  .page-id-24 .attraction-row-text {
+    width: calc(100% - 250px);
+  }
+
+  .page-id-24 .attraction-row-text p {
+    font-size: 1em;
+  }
+
+  .page-id-24 .attraction-row-text h1 {
+    font-size: 1.75em;
+  }
+
+  /* George Town */
+  .page-id-24 .section4-img-float {
+    width: 100%;
+    height: 400px;
+  }
+
+  .page-id-24 #section4-content {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  /* Quote */
+  .page-id-24 blockquote p {
+    text-align: justify;
+    font-size: 2em;
+  }
+
+  .page-id-24 blockquote cite {
+    font-size: 3em;
+  }
+
+  /* Five Areas */
+  .page-id-24 #section6-title {
+    font-size: 3em;
+  }
+
+  .page-id-24 #section6 .blog-paragraph {
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+  }
+
+  /* Owen Airport */
+  .page-id-24 #section7-title {
+    font-size: 3em;
+  }
+
+  .page-id-24 #section7-margin {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .page-id-24 #section7-margin p {
+    text-align: justify;
+  }
+
+  .page-id-24 .youtube {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 525px) {
+
+  /* About Grand Cayman */
+  .page-id-24 .left-img {
+    width: 400px;
+    height: 500px;
+  }
+
+  /* Key Attractions */
+  .page-id-24 .attraction-row {
+    flex-direction: column;
+    width: 350px;
+  }
+
+  .page-id-24 .attraction-row-img {
+    width: 350px;
+  }
+
+  .page-id-24 .attraction-row-text {
+    width: 100%;
+  }
+
+  /* Quote */
+  .page-id-24 blockquote p {
+    font-size: 1.3em;
+  }
+
+  .page-id-24 blockquote cite {
+    font-size: 2em;
+  }
+
+  .page-id-24 blockquote {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+
+  /* About Grand Cayman */
+  .page-id-24 .left-img {
+    width: 250px;
+    height: 400px;
+  }
+
+  .page-id-24 .section4-img-float {
+    width: 100%;
+    height: 300px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+
+  .page-id-24 #landing-page {
+    display: none;
+  }
+}
+
+/* Banner Img Removal*/
+.page-id-1790 #content .entry-title {
+  display: none;
+  position: absolute
+}
+
+.page-id-3164 #content .entry-title {
+  display: none;
+  position: absolute;
+}
+
+.page-id-3164 .ip-banner {
+  display: none;
+}
+
+.page-id-1790 .ip-banner {
+  display: none;
+}
+
+.page-id-18 .ip-banner {
+  display: none;
+}
+
+.page-id-2579 .ip-banner {
+  display: none;
+}
+
+.page-id-1889 .ip-banner {
+  display: none;
+}
+
+/* title removal*/
+.page-id-1889 #content .entry-title {
+  display: none;
+}
+
+.page-id-1889 .row {
+  align-items: center;
+}
+
+.page-id-1889 #content .alignnone {
+  margin: 0 !important;
+}
+
+.page-id-1889 .content-center {
+  padding: 10px;
+}
+
+.ipilgc-bg {
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/07/llllllllllllllllllll.png");
+}
+
+.team-list .team-entry .team-photo img {
+  object-position: center;
+}
+
+/* Fake H2 tag */
+.fake-h2 {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.fake-h3 {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+/* Candely */
+
+/* discover cayman text fix */
+.iplavcd-left {
+  width: unset;
+}
+
+/* Home Page */
+.slide-tagline-holder button {
+  margin-top: 30px;
+}
+
+/* Meet The Team Fix */
+@media only screen and (max-width: 626px) {
+  .page-id-28 #logo-title-text {
+    font-size: 2em;
+  }
+}
+
+/* Home Page Video Fix*/
+@media only screen and (max-width: 626px) {
+  .row-padding {
+    height: unset !important;
+  }
+}
+
+/* ipla-banner */
+.submit-wrap {
+  display: flex !important;
+  justify-content: center;
+  text-align: center;
+}
+
+.iplapts-left {
+  width: unset;
+}
+
+#ipla-it {
+  padding-bottom: 0;
+}
+
+.wpcf7-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer-cf-row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+@media only screen and (max-width:1024px) {
+  #ipla-banner {
+    height: 40vh;
+  }
+
+  .iplab-img {
+    height: 100%;
+  }
+
+  .iplab-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center top;
+  }
+}
+
+/* Wide Img */
+.wide-img {
+  width: 100vw !important;
+  height: 100% !important;
+}
+
+/* Welcom Button */
+.welcome-widget .styled-btn {
+  border-radius: 50px;
+  max-width: 1440px;
+}
+
+/* Fix This */
+.team-details-wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* This Maybe Will Be Temp */
+body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+/* Overlay Stuff */
+.overlay {
+  padding: 50px;
+  position: relative;
+  display: inline-block;
+  --border-style: 2px solid rgb(206, 164, 27);
+  --border-space: 20px;
+}
+
+.overlay-element {
+  position: absolute;
+  width: 150px;
+  height: 100px;
+}
+
+.overlay .top-left {
+  margin: -3%;
+  border-left: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  left: var(--border-space);
+}
+
+.overlay .top-right {
+  margin: -3%;
+  border-right: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  right: var(--border-space);
+}
+
+.overlay .bottom-left {
+  margin: -3%;
+  border-left: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  left: var(--border-space);
+}
+
+.overlay .bottom-right {
+  margin: -3%;
+  border-right: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  right: var(--border-space);
+}
+
+/* Featured Listings */
+
+
+
+@media only screen and (max-width:1024px) {
+  .page-id-19 .ip-banner {
+    display: none;
+  }
+}
+
+/* Cayman Brac */
+.page-id-25 .ip-banner {
+  display: none;
+}
+
+.page-id-25 #content .entry-title {
+  display: none;
+}
+
+/* Little Cayman */
+.page-id-24 .ip-banner {
+  display: none;
+}
+
+.page-id-24 #content .entry-title {
+  display: none;
+}
+
+/* Banner Text General Fix */
+#logo-title-text {
+  text-align: center;
+}
+
+#logo-small-text {
+  text-align: center;
+}
+
+/* FAQ */
+/* page-id-1790 */
+.page-id-1790 #content .entry-title {
+  padding: 50px 0 50px 93px;
+}
+
+.page-id-1790 #logo-title-text {
+  font-size: 6em;
+  text-align: center;
+}
+
+.page-id-1790 #logo-small-text {
+  width: 100%;
+  text-align: center;
+  font-size: 3em;
+}
+
+/* Why Cayman  */
+.new-img-full {
+  width: 50%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: block;
+}
+
+.page-id-1889 .fix-img-whycayman #content img[class*="align"] {
+  max-width: unset;
+}
+
+.page-id-1889 .fix-img-whycayman .col-md-6 {
+  margin: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.page-id-1889 .fix-img-whycayman #content img[class*="align"] {
+  max-width: 100%;
+}
+
+.page-id-1889 .fix-img-whycayman .page-id-1889 #logo-title-text {
+  font-size: 6em;
+  text-align: center;
+}
+
+.page-id-1889 #logo-small-text {
+  width: 100%;
+  text-align: center;
+  font-size: 3em;
+}
+
+/* Concierge  */
+/* page-id-22 */
+.page-id-22 .cycloneslider-slide-image {
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-22 .cycloneslider-slide-image img {
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-22 .cycloneslider-slide-image canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-22 #logo-title-text {
+  text-align: center;
+  font-size: 6em;
+}
+
+.page-id-22 .cycloneslider-canvas {
+  width: 100vw;
+  height: 100vh;
+}
+
+.page-id-22 .cycloneslider {
+  width: 100vw;
+  height: 100vh;
+}
+
+.page-id-22 #logo-small-text {
+  width: 95%;
+  text-align: center;
+  font-size: 2em;
+}
+
+.img-style-right {
+  float: right;
+  width: 50%;
+}
+
+.img-style-left {
+  float: left;
+  width: 50%;
+}
+
+@media only screen and (max-width: 940px) {
+
+  .page-id-22 .img-style-left {
+    width: 100% !important;
+    height: auto !important;
+    padding-bottom: 30px;
+  }
+
+  .page-id-22 .img-style-right {
+    height: auto !important;
+    width: 100% !important;
+    padding-bottom: 30px;
+  }
+
+  .page-id-22 .outer-info-div {
+    border-radius: 0 !important;
+    width: 100% !important;
+    max-width: unset !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .page-id-22 #landing-text h1 {
+    font-size: 3em;
+  }
+}
+
+/* Banner Text About  */
+/* Page-id-18 */
+.page-id-18 .row {
+  padding-top: 30px;
+}
+
+/* Payment Plan*/
+/* .page-id-2579*/
+.page-id-2579 #logo-title-text {
+  font-size: 6em;
+  text-align: center;
+}
+
+.page-id-2579 #logo-small-text {
+  font-size: 3em;
+}
+
+@media only screen and (max-width:991px) {
+  .page-id-2579 .abt-affpart {
+    width: 60%;
+  }
+
+  .page-id-2579 #logo-title-text {
+    font-size: 4em;
+  }
+
+  .page-id-2579 #logo-small-text {
+    font-size: 2em;
+  }
+}
+
+/* Meet the Team */
+/* page-id-28  */
+.page-id-28 #agents-results .agents-img {
+  width: 45%;
+}
+
+.page-id-28 #logo-title-text {
+  font-size: 6em;
+}
+
+.page-id-28 #logo-small-text {
+  font-size: 3em;
+}
+
+@media only screen and (max-width: 991px) {
+  .page-id-28 #content .entry-title, #content .archive-title, .post-page-meet-the-team h1.entry-title, .single-aios-agents h1.agent-entry-title {
+    font-size: 3em;
+    padding: 0 !important;
+    background-image: unset;
+  }
+
+  #agents-results .agents-item {
+    justify-content: center;
+  }
+
+  .page-id-28 #agents-results .agents-img {
+    width: unset;
+  }
+}
+
+/* This maybe needs fixing */
+.entry-title {
+  text-align: center;
+}
+
+.welcome-widget {
+  background-color: white;
+  max-width: 1640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.welcome-widget .welcome-photo img {
+  background-color: transparent;
+  margin-left: 3%;
+}
+
+.welcome-widget .welcome-text p {
+  color: black;
+}
+
+.welcome-widget {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.welcome-widget .welcome-text {
+  width: 45%;
+  margin-bottom: 0;
+  padding-left: 5% !important;
+}
+
+#welcome {
+  padding-top: 0;
+}
+
+/* Quick Fix */
+.cycloneslider-slides {
+  width: 100% !important;
+  height: 100vh !important;
+  position: relative;
+}
+
+.cycloneslider-template-standard .cycloneslider-slides {
+  width: 100% !important;
+  height: 100vh !important;
+}
+
+.cycloneslider-template-standard .cycloneslider-slide:first-child, .cycloneslider-template-standard .cycle-sentinel+.cycloneslider-slide {
+  width: 100% !important;
+  height: 100vh !important;
+}
+
+.cycloneslider-slides video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cycloneslider-template-standard {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  max-width: 100% !important;
+}
+
+#hero {
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+/* About page: START*/
+.abt-btn {
+  background: #ffffff;
+  width: 270px;
+  height: 45px;
+  margin: 15px;
+  border: 1px solid #1c2b38;
+  transition: 0.3s;
+  font-weight: bolder;
+}
+
+.abt-btn:hover {
+  background: #1c2b38;
+  color: #ffffff;
+  border: none;
+}
+
+.aff-part-sec2 {
+  margin-top: 80px;
+}
+
+.abt-affpart {
+  display: flex;
+  flex-direction: row;
+  margin-left: 0px !important;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-bottom: 10px;
+}
+
+.abt-affpart li {
+  list-style: none;
+  margin: 0 2px;
+}
+
+.abt-affpart img {
+  border: 3px solid rgba(208, 160, 75, 1);
+}
+
+.aff-part-sec3 {
+  background: rgba(5, 49, 62, 1);
+  color: #ffffff;
+}
+
+.aff-part-sec3 img {
+  border: none;
+}
+
+.txt-ctr {
+  padding: 20px 0;
+}
+
+.abt-txtbox {
+  width: 250px;
+  height: 320px;
+  box-shadow: 0 0 20px silver;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 21.25px;
+}
+
+.aff-part-sec4 {
+  text-align: center;
+}
+
+/*about page : END */
+/* IP Accordion : START */
+.ip-accordion {
+  margin: 15px 0;
+}
+
+.ip-accordion-item {
+  background: #fff;
+}
+
+button.ip-accordion-button {
+  background: #D3D3D3;
+  color: #1c2b38;
+  border: 1px solid #F0F0F0;
+  padding: 14px 20px 10px 40px;
+  width: 100%;
+  text-align: left;
+  outline: none !important;
+  position: relative;
+  white-space: normal;
+}
+
+button.ip-accordion-button:hover,
+button.ip-accordion-button:focus,
+button.ip-accordion-button:active {
+  background: #1c2b38 !important;
+  border: 1px solid #4A148C !important;
+}
+
+button.ip-accordion-button .glyphicon {
+  position: absolute;
+  top: 18px;
+  left: 15px;
+  font-size: 10px;
+  font-style: normal !important;
+}
+
+button.ip-accordion-button .glyphicon-plus {
+  display: none;
+}
+
+button.ip-accordion-button.collapsed .glyphicon-plus {
+  display: block;
+}
+
+button.ip-accordion-button.collapsed .glyphicon-minus {
+  display: none;
+}
+
+.ip-accordion-body {
+  padding: 15px;
+  border-left: 1px solid #F0F0F0;
+  border-right: 1px solid #F0F0F0;
+}
+
+/* IP Accordion : END */
+.wc-sec1, .wc-sec4 {
+  background: #05313e;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.why-cayman-section {
+  margin: 50px 0;
+}
+
+.wc-sec3 {
+  background: #ededed;
+  padding: 20px;
+}
+
+.wc-cf-name {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 20px;
+  column-gap: 20px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+@media only screen and (max-width:991px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .grid-item-10 {
+    grid-column: 1;
+  }
+}
+
+.grid-box img {
+  max-width: 100% !important;
+}
+
+.grid-item-10 {
+  grid-column: 2 / 3;
+  grid-row: 4;
+}
+
+.left-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.district-item {
+  width: 100%;
+  height: 65px;
+  background: #f7f7f7;
+  padding: 17px;
+  margin: 20px 0;
+  border-bottom: 2px solid #ededed;
+}
+
+.g-district {
+  background: #ffffff;
+  padding: 15px;
+}
+
+.g-cayman {
+  margin: 60px 0;
+}
+
+.g-cayman .sec-2 {
+  background: #ededed;
+  padding: 20px;
+}
+
+.g-cayman .bg-photo img {
+  filter: brightness(50%);
+}
+
+.g-cayman .bg-container {
+  position: relative;
+}
+
+.tntbm-content {
+  background: #ffffff;
+  padding: 30px;
+}
+
+.g-cayman .bg-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.gc-hero {
+  color: white;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(https://www.oasis-land.com/wp-content/uploads/2022/05/Background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  padding: 30px;
+  height: 700px;
+}
+
+.gc-hero:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: -1;
+}
+
+.gc-btn {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin: 0 auto;
+}
+
+.gc-btn button {
+  width: 300px;
+  height: 50px;
+  background: white;
+  color: #000;
+  border: 1px solid black;
+  transition: 0.3s;
+}
+
+.gc-btn button:hover {
+  background: #1c2b38;
+  color: #ffffff;
+}
+
+.gc-btn button i {
+  margin: 0 10px;
+}
+
+.cayman-nl-form {
+  width: 100%;
+  max-width: 700px;
+  text-align: center;
+  border: 1px solid #333;
+  padding: 10px 0px;
+}
+
+.gc-disclaimer {
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.gc-sm-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0;
+  grid-gap: 5px;
+}
+
+.gc-sm-grid .grid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 1px solid #333;
+  padding: 20px;
+
+}
+
+.grid-item-4 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+
+}
+
+.gc-sm-grid .gc-sm-icon {
+  font-size: 30px;
+}
+
+@media only screen and (max-width:991px) {
+  .welcome-widget .welcome-text {
+    width: 80%;
+  }
+
+  .gc-sm-grid {
+    grid-template-columns: none;
+    display: block;
+  }
+
+  .gc-btn {
+    display: block;
+
+  }
+
+  .gc-btn button {
+    margin: 10px 0;
+  }
+
+  .gc-sm-grid .grid {
+    margin: 20px 0;
+  }
+}
+
+.cb-hero {
+  color: white;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(https://www.oasis-land.com/wp-content/uploads/2022/05/nature-on-cayman-brac-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  padding: 30px;
+  height: 500px;
+}
+
+.cb-hero:after, .lc-hero:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: -1;
+}
+
+.cb-hero-content, .lc-hero-content {
+  background: rgba(255, 255, 255, 0.3);
+  max-width: 700px;
+  padding: 20px;
+}
+
+.lc-hero {
+  color: white;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(https://www.oasis-land.com/wp-content/uploads/2022/05/little-Cayman-banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  padding: 30px;
+  height: 500px;
+}
+
+header.header.active {
+  height: fit-content;
+}
+
+.header-container {
+  max-width: 100%;
+}
+
+@media only screen and (max-width:567px) {
+  .lc-hero, .cb-hero {
+    height: 650px;
+  }
+
+  .gc-hero {
+    height: 900px;
+  }
+}
+
+/* .header.header {
+  background-color: transparent;
+   !important;
+  color: #fff;
+}
+ */
+.slide-social-wrapper {
+  background-color: transparent;
+}
+
+/* Oliver Code #
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+  font-family: 'GT Walsheim', sans-serif !important;
+}
+
+.section-header {
+  font-family: 'GT Walsheim', sans-serif !important;
+}
+
+.slide-tagline-holder h3 {
+  font-family: 'GT Walsheim', sans-serif !important;
+}
+
+.header {
+  background: rgba(255, 255, 255, 0.5);
+  color: black;
+}
+
+
+.slide-tagline .slide-tagline-holder {
+  margin-top: 0;
+}
+
+#hero canvas {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(https://www.oasis-land.com/wp-content/uploads/2022/06/amor-ISjDiRMF990-unsplash-scaled.jpg) !important;
+}
+
+/* https://www.oasis-land.com/wp-content/uploads/2022/06/ronny-rondon-4cA8rMU7Ci4-unsplash-scaled.jpg
+  https://www.oasis-land.com/wp-content/uploads/2022/06/Invest-in-paradise-1500-×-850-px-1.jpg* 
+  * */
+
+
+.block-contain {
+  width: 100%;
+  height: unset !important;
+  background-color: #f2f2f2 !important;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  color: black;
+}
+
+
+.row-padding {
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+@media only screen and (max-width: 800px) {
+  .row-split-video video {
+    width: 100%;
+    height: 400px;
+  }
+}
+
+
+
+.row-split-text {
+  width: 50%;
+}
+
+.row-split-video {
+  margin-left: 1%;
+}
+
+.row-split-video iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.row-spacing {
+  display: flex;
+  align-items: center;
+}
+
+.social-platform-feed-wrapper {
+  padding-top: 10px
+}
+
+@media only screen and (max-width: 1635px) {
+  .row-spacing h2 {
+    text-align: center;
+  }
+
+  .row-spacing p {
+    text-align: center;
+  }
+
+  .row-split-video video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .row-padding {
+    width: 100%;
+  }
+}
+
+.text-spacing {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.text-spacing * {
+  margin-bottom: 30px;
+}
+
+.row-spacing h2 {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 2;
+}
+
+.row-spacing p {
+  font-size: 1.4em;
+  line-height: 1.5;
+}
+
+.social-feed-list {
+  max-width: 50%;
+  width: 100%;
+}
+
+#featured-listings {
+  padding: 40px;
+}
+
+.cff-header-hero img {
+  margin-top: 0px;
+}
+
+.cff-wrapper {
+  width: 100%;
+}
+
+.cff-likebox {
+  display: none;
+}
+
+@media only screen and (max-width:991px) {
+  .social-feed-list {
+    max-width: none;
+  }
+
+  .header {
+    background: rgba(255, 255, 255, 1);
+  }
+}
+
+/* Tiny Phone */
+@media only screen and (max-width: 480px) {
+  .welcome-widget .welcome-text {
+    width: 100%;
+  }
+
+  .row-spacing {
+    flex-direction: column;
+
+  }
+
+  .text-spacing {
+    width: 100% !important;
+    justify-content: unset;
+    justify-content: space-around;
+  }
+
+  .block-contain {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    color: black;
+  }
+
+  .row-split-text {
+    width: 100%;
+  }
+
+  .row-spacing p {
+    font-size: 0.8em !important;
+    line-height: 1.5;
+  }
+
+  .row-split-video video {
+    height: 300px;
+  }
+
+  .row-spacing h2 {
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 2;
+  }
+
+  .row-split-video iframe {
+    width: 100%;
+    height: 40vh;
+  }
+}
+
+@media only screen and (max-width:1440px) {
+
+  .row-spacing {
+    flex-direction: column;
+  }
+
+  .text-spacing {
+    width: 100% !important;
+    justify-content: unset;
+    justify-content: space-around;
+  }
+
+  .block-contain {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: black;
+  }
+
+  .row-split-text {
+    width: 100%;
+  }
+
+  .row-spacing p {
+    font-size: 1em;
+    line-height: 1.5;
+  }
+
+  .row-split-video {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .row-split-video iframe {
+    width: 100%;
+    height: 40vh;
+  }
+}
+
+.header-container {
+  padding: 0 10px;
+}
+
+.header-inner {
+  align-items: flex-end;
+}
+
+.header-nav {
+  margin-left: auto;
+  height: 100%;
+  width: 65%;
+}
+
+.header-logo {
+  height: 100%;
+  width: 10%;
+  margin-left: 10%;
+}
+
+.header-logo a img {
+  width: auto;
+  height: 10vh;
+}
+
+/*
+header.header.active img{
+	filter: invert(1);
+}
+*/
+
+header.header.active {
+  background-color: rgba(5, 49, 62, 0.8);
+  margin-bottom: 1vh;
+}
+
+.testimonials-list .testomonial-entry p {
+  color: black;
+}
+
+.social-media a {
+  background-color: #d6a53f;
+}
+
+.menu-item {
+  color: white;
+  font-size: 1.4em;
+}
+
+#agents-results .agents-description p {
+  color: black;
+  font-size: 1.5em;
+}
+
+#agents-results .agents-contact {
+  margin: 0;
+}
+
+#breadcrumbs {
+  color: white;
+}
+
+.home-container .ip-banner::before {
+  background: 0;
+}
+
+#meet-the-team {
+  padding-top: 60px;
+}
+
+.meet-the-team-widgets {
+  width: unset;
+  align-items: center;
+  max-width: 2000px;
+  margin-left: auto;
+  margin-right: auto
+}
+
+/* .home-container .meet-the-team-widgets .team-list .team-entry .team-photo img {
+  height: 654px !important;
+  width: 420px !important;
+}
+
+.meet-the-team-widgets .slick-slide {
+  width: unset !important;
+} */
+
+/* .home-container .meet-the-team-widgets .slick-list .slick-track {
+  width: 20160px !important;
+} */
+
+@media only screen and (max-width:1500px) {
+  /*   .meet-the-team-widgets .team-list .team-entry .team-photo img {
+    height: 500px;
+    width: 250px;
+  } */
+}
+
+.home-container .meet-the-team-widgets .team-list .team-entry {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.home-container .meet-the-team-widgets .header.header.active .header-nav {
+  margin-top: 10px;
+}
+
+header.header.active .header-nav {
+  margin-top: unset;
+}
+
+#why-purchase-with-us {
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/Untitled-design-2022-07-06T140120.005-2.jpg");
+}
+
+#hero .slide-tagline {
+  position: absolute !important;
+  z-index: 400555555555 !important;
+  background-color: transparent;
+}
+
+/* Phone Stuff */
+@media only screen and (max-width:991px) {
+
+  .meet-the-team-widgets .slick-slide {
+    width: initial;
+  }
+
+  .header {
+    background: rgba(255, 255, 255, 1);
+    display: none;
+  }
+
+  /* About us section*/
+  .ab-cont1 {
+    display: none;
+  }
+
+  .col-md-3 {
+    width: 40%;
+    margin-left: 30%;
+    border: 3px solid #d6a53f;
+    margin-bottom: 1vh;
+  }
+
+  .row-flex .col-md-8 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .abt-imgs .col-md-3 {
+    margin-left: 0 !important;
+    margin-right: 1vh;
+    border: 2px solid #a2bdda;
+  }
+
+  .home header.header {
+    display: absolute;
+    visibility: hidden;
+  }
+
+  .slide-social-wrapper {
+    background-color: transparent;
+    padding: 0;
+    position: relative !important;
+    z-index: 401;
+  }
+
+  .social-media {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+  }
+
+  .social-media a {
+    background-color: #d6a53f;
+  }
+
+  .slide-tagline-holder h3 {
+    font-size: 3em;
+  }
+
+  .slide-tagline-holder p {
+    font-size: 1.5em;
+    padding: 0;
+  }
+
+  .slide-tagline-holder h3 {
+    margin-bottom: 0px;
+  }
+
+  #hero .slide-tagline {
+    padding-top: 5%;
+  }
+
+  /* banner title text */
+  #logo-middle-text {
+    font-size: 2em !important;
+  }
+}
+
+._header ul li a {
+  font-size: 20px;
+}
+
+.header-nav {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+}
+
+.header-nav {
+  margin-top: 0;
+}
+
+._header ul li a:hover {
+  color: #d6a53f;
+}
+
+/* Large laptop */
+@media only screen and (max-width: 1440px) {
+
+  ._header ul li a {
+    font-size: 15px;
+  }
+
+  .header-logo {
+    margin-left: 0;
+  }
+}
+
+/* Tiny Phone */
+@media only screen and (max-width: 425px) {
+
+  .slide-tagline-holder h3 {
+    font-size: 2em !important;
+  }
+
+  .slide-tagline-holder p {
+    font-size: 1em !important;
+    padding: 0;
+  }
+}
+
+.wocas-photo-wrapper {
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/seven-mile-beach-1.jpg");
+}
+
+/* We may need to fix this */
+.grecaptcha-logo {
+  display: none;
+}
+
+.grecaptcha-badge {
+  display: none !important;
+  box-shadow: 0 !important;
+}
+
+/*changes to get in touch*/
+
+#your-mobile:focus {
+  border-bottom-color: #d6a53f;
+}
+
+#your-name:focus {
+  border-bottom-color: #d6a53f;
+}
+
+#your-name:focus {
+  border-bottom-color: #d6a53f;
+}
+
+#your-phone:focus {
+  border-bottom-color: #d6a53f;
+}
+
+#your-email:focus {
+  border-bottom-color: #d6a53f;
+}
+
+.wpcf7-form-control:focus {
+  border-bottom-color: #d6a53f;
+}
+
+/*Changes to button */
+
+.styled-btn {
+  background-color: #d6a53f;
+  color: white;
+  border: 1px solid black !important;
+}
+
+.styled-btn:hover {
+  background-color: #a2bdda;
+}
+
+.sc-nav {
+  border: 1px solid black !important;
+  background-color: #d6a53f !important;
+  color: black;
+}
+
+.sc-nav:hover {
+  background-color: #a2bdda !important;
+}
+
+.slick-controls span.sc-nav i {
+  filter: invert(1);
+}
+
+/*  Footer Changes */
+#inner-page-wrapper {
+  margin-bottom: 0px;
+}
+
+.footer {
+  border: 0px !important;
+}
+
+/* About us Changes */
+
+.page-id-18 .abt-txtbox {
+  background: white;
+}
+
+@media only screen and (max-width: 911px) {
+
+  .page-id-18 .abt-imgs {
+    display: none;
+  }
+
+  .page-id-18 .col-md-12 img {
+    width: 100% !important;
+    height: auto !important;
+    padding-bottom: 30px;
+  }
+
+  .page-id-18 .abt-txtbox {
+    max-width: 350px;
+  }
+}
+
+.section-header {
+  justify-content: center;
+}
+
+.row-new {
+  display: flex;
+  justify-content: center;
+}
+
+.ab-cont1-img {
+  margin-bottom: 0px
+}
+
+.text-generic {
+  color: black;
+}
+
+.about-us-fix {
+  display: inline-block;
+  width: 10vw;
+  margin-top: 1vh;
+  margin-left: 10px;
+}
+
+.aff-part-sec2 {
+  margin-top: 40px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+div.dropdown-menu .row {
+  display: block;
+}
+
+.abt-txtbox {
+  font-size: intrinsic;
+  border: 2px soild #d6a53f !important;
+  height: unset;
+  display: flex;
+  flex-direction: column;
+}
+
+.col-md-3 {
+  flex-direction: column;
+  display: flex;
+}
+
+.title-spacing {
+  width: 100%;
+  height: 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.text-spacing {
+  display: flex;
+}
+
+.ab-cont1-img {
+  margin: 0;
+}
+
+.hfeed #breadcrumbs {
+  display: none;
+  margin-left: 10%;
+}
+
+#content-sidebar, #content-full {
+  margin-top: 0;
+}
+
+/* changes to banner */
+
+
+.ip-banner canvas {
+  height: 100vh;
+}
+
+.center-fix-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* Fixing the logo  */
+.gold {
+  color: #d6a53f;
+}
+
+
+.img-fix-middle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  position: absolute;
+  z-index: 60000000000;
+  top: -55vh;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.img-fix-middle-banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  position: absolute;
+  z-index: 60;
+  top: 35vh;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.section-header .sh-accent {
+  max-width: 100px;
+  min-width: 100px;
+}
+
+.section-header {
+  align-items: center;
+}
+
+#logo-small-text {
+  color: white;
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+#logo-middle-text {
+  line-height: 1.2 !important;
+  text-align: center;
+  margin: 0em !important;
+  font-size: 3em !important;
+}
+
+#logo-title-text {
+  line-height: 1.2 !important;
+  font-size: 5em;
+  margin: 0 !important;
+}
+
+/* Fix for phone logo */
+
+@media only screen and (max-width:991px) {
+
+  #logo-middle-text {
+    font-size: 2em !important;
+  }
+
+  #logo-title-text {
+    line-height: 1.2 !important;
+    font-size: 3em;
+    margin: 0 !important;
+  }
+
+  #logo-small-text {
+    font-size: 1.5em;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+}
+
+/* Tiny Phone */
+@media only screen and (max-width:440px) {
+
+  .img-fix-middle {
+    top: -75vh;
+  }
+
+  #logo-middle-text {
+    font-size: 1.5em !important;
+  }
+
+  #logo-title-text {
+    text-align: center;
+    line-height: 1.2 !important;
+    font-size: 2em;
+    margin: 0 !important;
+  }
+
+  #logo-small-text {
+    width: 95%;
+    font-size: 1em;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+}
+
+.sh-accent {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.sh-content p {
+  margin: 0em !important;
+}
+
+/*Blog Banner Fix */
+
+
+/* FAQ breadcrumb Fix*/
+.post-page-faqs .hfeed #breadcrumbs {
+  display: block;
+}
+
+/* Ip Banner */
+.ip-banner {
+  height: 100vh;
+}
+
+#content .entry-title, #content .archive-title, .post-page-meet-the-team h1.entry-title, .single-aios-agents h1.agent-entry-title {
+  padding: 30px 30px 30px 93px;
+}
+
+/* Our Social */
+.social-video-wrapper {
+  width: 80%;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+.abt-affpart img {
+  background-color: white;
+}
+
+.page-id-18 .abt-affpart img {
+  height: 120px !important;
+  width: auto !important;
+}
+
+/* Why Cayman */
+.page-id-1889 .img-fix-middle-banner {
+  text-shadow: 0 2px 0 black;
+  color: white;
+}
+
+.page-id-1889 #logo-small-text {
+  color: white;
+}
+
+.wc-sec1 {
+  margin: 0 !important;
+}
+
+.wc-sec4 {
+  margin-top: 0;
+}
+
+.content-center {
+  width: 100%;
+  height: 100%;
+}
+
+.content-center h2 {
+  font-size: 1.9em !important;
+  text-align: center;
+}
+
+.center-fill-img {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.spacing-box {
+  width: 100%;
+}
+
+.wc-sec3 {
+  margin-bottom: 0px;
+}
+
+.wc-sec5 {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1037%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(5%2c 49%2c 62%2c 1)'%3e%3c/rect%3e%3cpath d='M0%2c493.852C89.475%2c478.001%2c139.836%2c384.775%2c220.918%2c343.755C315.624%2c295.843%2c445.69%2c316.325%2c513.045%2c234.3C582.464%2c149.761%2c585.664%2c26.306%2c570.552%2c-82.033C555.404%2c-190.63%2c515.077%2c-303.987%2c428.562%2c-371.351C345.853%2c-435.751%2c229.2%2c-411.278%2c125.775%2c-428.351C36.922%2c-443.019%2c-48.136%2c-482.374%2c-136.424%2c-464.618C-229%2c-446%2c-313.989%2c-396.986%2c-377.53%2c-327.132C-441.964%2c-256.295%2c-476.473%2c-165.15%2c-494.392%2c-71.083C-512.942%2c26.296%2c-520.968%2c128.965%2c-481.756%2c220.01C-442.148%2c311.976%2c-364.737%2c382.603%2c-277.685%2c432.086C-193.544%2c479.914%2c-95.3%2c510.735%2c0%2c493.852' fill='%23032028'%3e%3c/path%3e%3cpath d='M1440 1272.27C1568.994 1295.937 1678.65 1169.4189999999999 1773.329 1078.67 1855.642 999.774 1888.434 889.797 1943.31 789.854 2003.397 680.42 2127.243 587.308 2111.0969999999998 463.51099999999997 2094.965 339.822 1951.524 281.611 1865.27 191.502 1784.101 106.70600000000002 1731.8319999999999-17.24000000000001 1619.216-50.35299999999995 1506.594-83.46799999999996 1393.351-15.462999999999965 1281.3890000000001 19.82000000000005 1171.761 54.36700000000002 1058.738 79.27199999999999 971.262 153.836 874.705 236.14100000000002 781.949 337.221 762.027 462.522 742.02 588.361 784.202 724.042 864.931 822.625 939.252 913.383 1084.576 897 1176.987 969.256 1284.527 1053.341 1305.73 1247.635 1440 1272.27' fill='%23074254'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1037'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  background-size: 100%;
+  margin: 0 !important;
+}
+
+.grid-box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.box {
+  border-radius: 20px;
+  color: black;
+  background-color: white;
+  background-size: 100% auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 45%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  height: 10vh;
+  padding: 1vh;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 15px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.box {
+  font-size: 1.3em;
+}
+
+@media only screen and (max-width: 991px) {
+
+  .page-id-1889 #content .entry-title {
+    font-size: 4em;
+    line-height: 2;
+  }
+
+  .box {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .box {
+    width: 80%;
+    margin-left: 10%;
+    height: 30vh;
+  }
+}
+
+/*Developer Payment Plan */
+.gold-box {
+  border: 1px solid #d6a53f;
+  margin-right: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.page-id-2579 .entry-title-new {
+  padding-top: 35px !important;
+}
+
+.page-id-2579 .center-img {
+  width: 100%;
+  height: auto;
+}
+
+.page-id-2579 .row-fullwidth {
+  text-align: justify !important;
+}
+
+.page-id-2579 .center-img img {
+  max-width: 700px !important;
+  height: auto;
+  width: 100%;
+}
+
+.wpcf7-spinner {
+  position: absolute;
+}
+
+.page-id-2579 .container .margin-25 {
+  justify-content: space-around;
+}
+
+.page-id-2579 .txt-ctr {
+  padding: 50px 0;
+}
+
+.row-fullwidth {
+  display: block !important;
+  width: 100%;
+}
+
+.wp-image-2635 {
+  width: 50%;
+  height: 20vh;
+}
+
+.page-id-2579 .abt-affpart {
+  width: 33%;
+}
+
+.page-id-2579 .txt-ctr {
+  text-align: center;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.page-id-2579 .row {
+  align-items: stretch;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-id-2579 .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.page-id-2579 .col-md-6 {
+  text-align: center;
+  width: 100%;
+}
+
+.page-id-2579 #content .entry-title {
+  margin-top: 40px;
+  padding: 4vh;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: 4em;
+  display: none;
+}
+
+.page-id-2579 #content .entry-title-new {
+  margin-top: 40px;
+  padding: 4vh;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: 4em;
+  display: block;
+  color: var(--font-color-title);
+  line-height: 1;
+  text-transform: uppercase;
+  font-weight: 500;
+  left: 0;
+  position: relative;
+  font-family: var(--font-family-title);
+  padding: 50px 0 50px 93px;
+}
+
+.page-id-2579 .aff-part-sec3 {
+  margin-left: 0;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.page-id-2579 .container {
+  width: 100%;
+}
+
+.page-id-2579 .row .abt-imgs {
+  width: 100%;
+}
+
+.page-id-18 .abt-imgs img {
+  width: 80vw;
+}
+
+.page-id-2579 .container .about-container-1 {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.page-id-2579 .margin-box {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #05313E;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.big-box-background {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1037%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(5%2c 49%2c 62%2c 1)'%3e%3c/rect%3e%3cpath d='M0%2c493.852C89.475%2c478.001%2c139.836%2c384.775%2c220.918%2c343.755C315.624%2c295.843%2c445.69%2c316.325%2c513.045%2c234.3C582.464%2c149.761%2c585.664%2c26.306%2c570.552%2c-82.033C555.404%2c-190.63%2c515.077%2c-303.987%2c428.562%2c-371.351C345.853%2c-435.751%2c229.2%2c-411.278%2c125.775%2c-428.351C36.922%2c-443.019%2c-48.136%2c-482.374%2c-136.424%2c-464.618C-229%2c-446%2c-313.989%2c-396.986%2c-377.53%2c-327.132C-441.964%2c-256.295%2c-476.473%2c-165.15%2c-494.392%2c-71.083C-512.942%2c26.296%2c-520.968%2c128.965%2c-481.756%2c220.01C-442.148%2c311.976%2c-364.737%2c382.603%2c-277.685%2c432.086C-193.544%2c479.914%2c-95.3%2c510.735%2c0%2c493.852' fill='%23032028'%3e%3c/path%3e%3cpath d='M1440 1272.27C1568.994 1295.937 1678.65 1169.4189999999999 1773.329 1078.67 1855.642 999.774 1888.434 889.797 1943.31 789.854 2003.397 680.42 2127.243 587.308 2111.0969999999998 463.51099999999997 2094.965 339.822 1951.524 281.611 1865.27 191.502 1784.101 106.70600000000002 1731.8319999999999-17.24000000000001 1619.216-50.35299999999995 1506.594-83.46799999999996 1393.351-15.462999999999965 1281.3890000000001 19.82000000000005 1171.761 54.36700000000002 1058.738 79.27199999999999 971.262 153.836 874.705 236.14100000000002 781.949 337.221 762.027 462.522 742.02 588.361 784.202 724.042 864.931 822.625 939.252 913.383 1084.576 897 1176.987 969.256 1284.527 1053.341 1305.73 1247.635 1440 1272.27' fill='%23074254'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1037'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  background-size: 100% 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.fix-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.page-id-2579 .abt-txtbox {
+  background-color: white;
+  text-align: center;
+  border-radius: 0px;
+  box-shadow: black 10px 10px;
+}
+
+.page-id-2579 .col-md-fix {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.page-id-2579 .txt-ctr {
+  color: white;
+}
+
+.page-id-2579 .sh-content {
+  color: #d6a53f;
+}
+
+.page-id-2579 .big-box-background .section-header .sh-content em {
+  color: #d6a53f;
+}
+
+.center-img {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 30px;
+}
+
+.page-id-2579 #content h2, aside h2 {
+  font-size: 2em;
+}
+
+.page-id-2579 .margin-box p {
+  font-size: 1.3em;
+}
+
+.page-id-2579 .col-md-fix p {
+  font-size: 1.5em;
+}
+
+.page-id-2579 .margin-25 .col-md-2 {
+  border: 5px solid #D6A53F;
+}
+
+@media only screen and (max-width: 991px) {
+  .page-id-1720 #get-in-touch {
+    margin-top: 10px !important;
+  }
+
+  .page-id-2579 .margin-25 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .page-id-2579 .fix-middle {
+    display: none;
+  }
+
+  .page-id-2579 .container .about-container-1 {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .page-id-2579 .margin-box {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .page-id-2579 .col-md-3 {
+    width: 80%;
+    margin: 0;
+    margin-bottom: 30px;
+  }
+
+  .page-id-2579 .col-md-3 {
+    margin-left: 0%
+  }
+
+  .page-id-2579 .styled-btn {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 40%;
+  }
+
+  .page-id-2579 .margin-25 .col-md-2 {
+    padding: 1vh;
+    border: 5px solid #d6a53f;
+    margin-bottom: 30px;
+  }
+
+  .page-id-2579 #content .entry-title-new {
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    font-size: 3em;
+    background: white;
+  }
+
+  .page-id-2579 .col-md-fix {
+    font-size: 0.7em;
+  }
+
+  .page-id-2579 .txt-ctr {
+    width: 90%;
+  }
+}
+
+/* Contact Us */
+.page-id-1720 .ip-banner {
+  display: none;
+}
+
+.page-id-1720 #content-full {
+  display: none;
+  height: 40vh;
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/07/Contact-Oasisehfef.jpg");
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+}
+
+.page-id-1720 #content-full {
+  background-color: #05313e;
+}
+
+.page-id-1720 .header {
+  background-color: #05313e;
+}
+
+.page-id-1720 #content .entry-title {
+  font-family: 'GT Walsheim', sans-serif !important;
+  background: url(images/header-title-accent.png) center no-repeat;
+  color: white;
+  padding: 0 !important;
+  padding-top: 20vh !important;
+  text-shadow: black 0 1px 0;
+}
+
+.page-id-1720 #content .entry-title {
+  font-size: 6em;
+}
+
+.page-id-1720 #content-sidebar, #content-full {
+  min-height: 0;
+}
+
+.page-id-1720 .footer {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+@media only screen and (max-width: 991px) {
+  .page-id-1720 #content .entry-title {
+    font-size: 4em;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+
+  .page-id-1720 #content .entry-title {
+    font-size: 3em;
+  }
+}
+
+.blog-paragraph {
+  text-align: justify !important;
+}
+
+/* .page-id-22 Conciegre */
+.page-id-22 #landing-text h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.page-id-22 #landing-text h2 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.page-id-22 #landing-text button {
+  margin-top: 0 !important;
+}
+
+.page-id-22 .entry-content {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(5%2c 49%2c 62%2c 1)'%3e%3c/rect%3e%3cpath d='M0%2c493.852C89.475%2c478.001%2c139.836%2c384.775%2c220.918%2c343.755C315.624%2c295.843%2c445.69%2c316.325%2c513.045%2c234.3C582.464%2c149.761%2c585.664%2c26.306%2c570.552%2c-82.033C555.404%2c-190.63%2c515.077%2c-303.987%2c428.562%2c-371.351C345.853%2c-435.751%2c229.2%2c-411.278%2c125.775%2c-428.351C36.922%2c-443.019%2c-48.136%2c-482.374%2c-136.424%2c-464.618C-229%2c-446%2c-313.989%2c-396.986%2c-377.53%2c-327.132C-441.964%2c-256.295%2c-476.473%2c-165.15%2c-494.392%2c-71.083C-512.942%2c26.296%2c-520.968%2c128.965%2c-481.756%2c220.01C-442.148%2c311.976%2c-364.737%2c382.603%2c-277.685%2c432.086C-193.544%2c479.914%2c-95.3%2c510.735%2c0%2c493.852' fill='%23032028'%3e%3c/path%3e%3cpath d='M1440 1272.27C1568.994 1295.937 1678.65 1169.4189999999999 1773.329 1078.67 1855.642 999.774 1888.434 889.797 1943.31 789.854 2003.397 680.42 2127.243 587.308 2111.0969999999998 463.51099999999997 2094.965 339.822 1951.524 281.611 1865.27 191.502 1784.101 106.70600000000002 1731.8319999999999-17.24000000000001 1619.216-50.35299999999995 1506.594-83.46799999999996 1393.351-15.462999999999965 1281.3890000000001 19.82000000000005 1171.761 54.36700000000002 1058.738 79.27199999999999 971.262 153.836 874.705 236.14100000000002 781.949 337.221 762.027 462.522 742.02 588.361 784.202 724.042 864.931 822.625 939.252 913.383 1084.576 897 1176.987 969.256 1284.527 1053.341 1305.73 1247.635 1440 1272.27' fill='%23074254'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  background-size: 100% 100%;
+}
+
+.page-id-22 #content .entry-title {
+  display: none;
+}
+
+.page-id-22 .ip-banner {
+  display: none;
+}
+
+.page-id-22 .container {
+  width: 100%;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.page-id-22 section:not(#get-in-touch) {
+  transform-style: preserve-3d;
+  position: relative;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.page-id-22 section h1 {
+  text-align: center;
+  font-size: 4rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.page-id-22 .parallax::after {
+  content: " ";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-size: 100%;
+  z-index: -1;
+}
+
+.page-id-22 .bg::after {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.oasis-land.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-05-at-4.37.21-PM.jpeg");
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+}
+
+
+.page-id-22 #landing-text {
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+
+.page-id-22 #landing-text h1 {
+  color: white;
+  font-size: 4em;
+}
+
+.page-id-22 #landing-text button {
+  background-color: rgba(218, 165, 32, 0);
+  text-shadow: black 0 1px 0;
+  border: 4px solid #daa520;
+  ;
+  color: white;
+  padding: 15px;
+  margin-top: 2%;
+  font-size: 2em;
+  padding-left: 3%;
+  padding-right: 3%;
+  font-weight: 400;
+}
+
+.page-id-22 #landing-text button:hover {
+  background-color: rgb(0, 0, 0);
+  transition: background-color 0.2s ease-out 100ms
+}
+
+.page-id-22 .no-parallax {
+  background-color: #111;
+  z-index: 999;
+}
+
+/* Box-Spacing */
+.page-id-22 .row-of-boxes {
+  background-color: white;
+  width: 100%;
+  height: 20vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+
+.page-id-22 .box-styling {
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 15%;
+  height: 20vh;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.page-id-22 .box-textBox p {
+  color: #d6a53f;
+  font-size: 2em;
+}
+
+.page-id-22 .box-icon {
+  display: flex;
+  align-items: center;
+  width: 25%;
+  height: 25%;
+}
+
+.page-id-22 .sideWay-line {
+  width: 100px;
+  transform: (90deg);
+  color: black;
+}
+
+.page-id-22 .outer-info-div {
+  color: black;
+  max-width: 1100px;
+  border-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5vh;
+  padding: 3vw;
+  padding-top: 1vh;
+  border-radius: 50px;
+  background-color: white;
+  margin-top: 100px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.page-id-22 .margin-div {
+  background-color: white;
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-22 .info-div {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+  align-items: center;
+}
+
+.page-id-22 .conci-title {
+  font-size: 2.5em !important;
+  text-align: center;
+  color: #daa520;
+}
+
+.page-id-22 .info-div h1 {
+  margin: 0 !important;
+  width: 50%;
+  color: #daa520;
+  font-size: 2em;
+  text-align: center;
+}
+
+.page-id-22 .info-div p {
+  margin: 0 !important;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+
+.page-id-22 .info-div-2 {
+  width: 100%;
+  height: unset;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-id-22 .info-div-2 h1 {
+  margin: 0 !important;
+  width: 50%;
+  color: #daa520;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+.page-id-22 .info-div-2 p {
+  margin: 0 !important;
+  width: 100%;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.page-id-22 #full-width-img {
+  width: 100%;
+  height: auto;
+}
+
+.page-id-22 .sec-2 {
+  width: 100vw;
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+
+
+.page-id-22 .bg-1::after {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.oasis-land.com/wp-content/uploads/2022/07/sand.jpg");
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+}
+
+.page-id-22 #landing-text-last {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.page-id-22 #logo-oasis {
+  margin-bottom: 10%;
+}
+
+.page-id-22 #landing-text-last h1 {
+  font-family: 'GT Walsheim', sans-serif !important;
+  color: white;
+  font-size: 8em;
+}
+
+.page-id-22 #landing-text-last h4 {
+  margin-top: 10%;
+  color: white;
+  font-size: 3em;
+}
+
+.page-id-22 #landing-text-last button {
+  background-color: rgba(218, 165, 32, 0);
+  text-shadow: black 0 1px 0;
+  border: 4px solid #daa520;
+  ;
+  color: white;
+  padding: 15px;
+  margin-top: 2%;
+  font-size: 2em;
+  padding-left: 3%;
+  padding-right: 3%;
+  font-weight: 400;
+  justify-content: space-evenly;
+}
+
+.page-id-22 #landing-text-last button:hover {
+  background-color: rgb(0, 0, 0);
+  transition: background-color 0.2s ease-out 100ms
+}
+
+@media only screen and (max-width: 1182px) {
+
+  .page-id-22 section:not(#get-in-touch) {
+    height: 600px;
+  }
+
+  .page-id-22 .box-styling {
+    justify-content: space-evenly;
+  }
+
+  .page-id-22 .box-icon {
+    width: 10%;
+  }
+
+  .page-id-22 .outer-info-div {
+    max-width: 80%;
+    margin-left: 10vw;
+    margin-right: 10vw;
+  }
+
+  .page-id-22 .box-styling {
+    width: 100%;
+  }
+
+  .page-id-22 .row-of-boxes {
+    flex-direction: column;
+    height: unset;
+  }
+
+  .page-id-22 .row-of-boxes hr {
+    display: none;
+  }
+
+  .page-id-22 .box-textBox p {
+    color: #d6a53f;
+    font-size: 1.5em;
+  }
+
+  .page-id-22 .info-div {
+    flex-direction: column;
+    height: unset !important;
+    background-size: 0% 50%;
+    background-position: top center;
+  }
+
+  .page-id-22 .info-div h1 {
+    width: 100%;
+    margin: 0;
+  }
+
+  .page-id-22 .info-div p {
+    padding: 0 !important;
+    margin: 0;
+    width: 100%;
+  }
+
+  .page-id-22 .info-div-2 {
+    height: unset !important;
+  }
+
+  .page-id-22 .info-div-2 {
+    flex-direction: column;
+  }
+
+  .page-id-22 .info-div-2 h1 {
+    margin-top: 0;
+    width: 100%;
+  }
+
+  .page-id-22 .info-div-2 p {
+    padding: 0 !important;
+    width: 100%;
+  }
+
+  .page-id-22 #logo-oasis {
+    margin-bottom: 0;
+  }
+
+  .page-id-22 .landing-text-last {
+    justify-content: space-around;
+  }
+}
+
+@media only screen and (max-width: 779px) {
+
+  .page-id-22 .info-div h1 {
+    font-size: 3em;
+  }
+
+  .page-id-22 .info-div p {
+    font-size: 1.3em;
+  }
+
+  .page-id-22 .info-div-2 h1 {
+    font-size: 3em;
+  }
+
+  .page-id-22 .info-div-2 p {
+    font-size: 1.3em;
+  }
+}
+
+/* Meet the Team */
+.page-id-28 .img-fix-middle {
+  text-shadow: black 0 1px 0;
+}
+
+.page-id-28 #logo-small-text {
+  line-height: 1.3;
+}
+
+@media only screen and (max-width: 1024px) {
+
+  .page-id-28 .img-fix-middle {
+    height: 1.7;
+  }
+}
+
+
+/* Grand Cayman 
+ * 
+ * 
+ * 
+ * */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'GT Walsheim', sans-serif !important;
+}
+
+
+.page-id-26 .ip-banner {
+  display: none;
+}
+
+.page-id-26 .container {
+  width: unset !important;
+}
+
+.page-id-26 #get-in-touch {
+  background-color: white;
+  background: unset;
+}
+
+.page-id-26 #content .entry-title {
+  display: none;
+}
+
+.page-id-26 .container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.page-id-26 .max-width-div {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.page-id-26 #parent {
+  transform: translate3d(0, 0, 0);
+  border: 0 !important;
+  contain: content;
+}
+
+.page-id-26 #landing-page {
+  position: relative;
+  border: 0 !important;
+  width: 100%;
+  height: 900px;
+}
+
+.page-id-26 #landing-page img {
+  position: relative;
+  border: 0 !important;
+  height: 100%;
+  width: 100%;
+}
+
+.page-id-26 .text-temp {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  padding: 2em;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+.text-temp h2 {
+  margin: 0 !important;
+  width: 100%;
+  text-align: center;
+  font-size: 8em !important;
+  color: white;
+}
+
+.text-temp h4 {
+  width: 100%;
+  text-align: center;
+  font-size: 2em;
+  color: white;
+}
+
+.page-id-26 #section2 {
+  border: 0 !important;
+
+  background-color: #04313D;
+  contain: content;
+  padding-bottom: 200px;
+  padding-top: 100px;
+}
+
+.page-id-26 #about-us-title {
+  text-align: center;
+  width: 100%;
+  color: #D6A53F;
+  font-size: 4em;
+  text-underline-offset: 10px;
+}
+
+.page-id-26 .left-right-img {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+}
+
+.page-id-26 .left-img::before {
+  transform: translateZ(-1px);
+  width: 80px;
+  height: 80px;
+  margin-left: -50px;
+  margin-top: -50px;
+  background: #D6A53F;
+  content: '';
+  display: inline-block;
+}
+
+.page-id-26 .left-img {
+  transform-style: preserve-3d;
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/08/new-new-new-new.png");
+  width: 400px;
+  height: 600px;
+  background-size: cover;
+}
+
+.page-id-26 .left-img::after {
+  transform: translateZ(-1px);
+  position: absolute;
+  border-radius: 50%;
+  bottom: -50px;
+  right: -50px;
+  width: 100px;
+  height: 100px;
+  background: #D6A53F;
+  content: '';
+  display: inline-block;
+}
+
+
+.page-id-26 .right-text {
+  width: 50%;
+}
+
+.page-id-26 .right-text p {
+  text-align: justify;
+  color: white;
+  font-size: 1.3em;
+}
+
+.page-id-26 #section3 {
+  border: 0 !important;
+  width: 100vw;
+  background-color: #F2F2F2;
+  contain: content;
+}
+
+.page-id-26 #Key-attractions-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  color: black;
+  font-size: 5em;
+  text-underline-offset: 10px;
+}
+
+.page-id-26 .flex-collum {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.page-id-26 .attraction-row {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 90%;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.page-id-26 .attraction-row-img {
+  width: 350px;
+  height: unset;
+}
+
+.page-id-26 .attraction-row-img img {
+  height: 100%;
+  width: 100%;
+}
+
+.page-id-26 .attraction-row-text {
+  width: calc(100% - 350px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-id-26 .padding-div {
+  margin: 40px;
+}
+
+.page-id-26 .attraction-row-text h1 {
+  margin-top: 0;
+  font-size: 2.5em;
+  color: #BC973F;
+  margin-bottom: 0;
+}
+
+.page-id-26 .attraction-row-text p {
+  font-size: 1.4em;
+  color: black;
+  text-align: justify;
+}
+
+.page-id-26 #section4 {
+  position: relative;
+  width: 100%;
+  background-color: #04313D;
+}
+
+.page-id-26 #section4-content {
+  padding-top: 150px;
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-26 #section4-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 90px;
+
+  color: white;
+  font-size: 5em;
+  text-underline-offset: 10px;
+}
+
+.page-id-26 .padding-div-large {
+  padding: 100px;
+  padding-bottom: 0;
+  padding-top: 0;
+  display: inline-block;
+}
+
+
+.page-id-26 .section4-img-float {
+  max-width: 600px;
+  width: 600px;
+  height: 600px;
+  float: left;
+}
+
+.page-id-26 .padding-div-large p {
+  font-size: 1.3em;
+  color: white;
+  text-align: justify;
+}
+
+.page-id-26 .flex-row-down {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.page-id-26 .img-flex {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-id-26 .img-and-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.page-id-26 #section5 {
+  position: relative;
+  background-color: #F9F9F9;
+}
+
+.page-id-26 #section5-content {
+  padding-top: 200px;
+  padding-bottom: 150px;
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-26 #section6 {
+  position: relative;
+  width: 100%;
+  background-color: #04313D;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+
+.page-id-26 #section6-content {
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-26 #section6-title {
+  margin-top: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 4em;
+}
+
+.page-id-26 #section7 {
+  position: relative;
+  padding-top: 150px;
+  width: 100%;
+  background-color: white;
+}
+
+.page-id-26 #section7 .max-width-div {
+  max-width: 1660px;
+}
+
+.page-id-26 #section7-content {
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 100px;
+}
+
+.page-id-26 #section7-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 90px;
+  color: #BC973F;
+  font-size: 5em;
+  text-underline-offset: 10px;
+  margin-bottom: 30px;
+}
+
+.page-id-26 #section7-margin {
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-bottom: 100px;
+}
+
+.page-id-26 #section7-margin p {
+  font-size: 1.6em;
+}
+
+.page-id-26 #section7-img {
+  width: 100%;
+  height: auto;
+  border-radius: 25px;
+}
+
+.page-id-26 .youtube {
+  width: 100%;
+  height: 800px;
+}
+
+.page-id-26 #section8 {
+  position: relative;
+  width: 100%;
+  background-color: #04313D;
+}
+
+.page-id-26 #section8-content {
+  display: inline-block;
+  width: 100%;
+}
+
+.page-id-26 #section8-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 90px;
+  color: white;
+  font-size: 5em;
+  text-underline-offset: 10px;
+  margin-bottom: 30px;
+}
+
+.page-id-26 .flex-row-lots {
+  width: 100%;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.page-id-26 .lot {
+  display: flex;
+  width: 500px;
+  height: 100%;
+  margin-bottom: 30px;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.page-id-26 .lot .lot-img {
+  position: relative;
+  width: 500px;
+  height: 300px;
+}
+
+.page-id-26 .lot .lot-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-26 .lot-price {
+  padding: 20px;
+  width: 60%;
+  color: white;
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 2.5em;
+  border-top: 2px solid rgba(255, 255, 255, 0.795);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.795)
+}
+
+.page-id-26 .lot-price::before {
+  left: 0;
+  top: -2px;
+  content: '';
+  position: absolute;
+  z-index: 100;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-26 .lot-price::after {
+  bottom: -2px;
+  right: 0;
+  content: '';
+  position: absolute;
+  z-index: 100;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-26 .lot-info {
+  z-index: 2;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-id-26 .lot-info p {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  font-size: 1.7em;
+  text-decoration: none !important;
+  color: black;
+}
+
+.page-id-26 .caymen-logo {
+  border-radius: 50%;
+  position: absolute;
+  padding: 2em;
+  left: 50%;
+  top: 50%;
+  z-index: 0;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: #D6A53F;
+  content: '';
+}
+
+/* Do Not Edit */
+.page-id-26 blockquote {
+  border-left: 1.5px solid #000000;
+  color: #04313D;
+  font-style: italic;
+  padding: 1em 2em;
+  position: relative;
+  transition: 0.2s border ease-in-out;
+  z-index: 0;
+}
+
+.page-id-26 blockquote:before {
+  content: "";
+  position: absolute;
+  top: 44%;
+  left: -4px;
+  height: 8em;
+  background-color: #F9F9F9;
+  width: 5px;
+  margin-top: -1em;
+}
+
+.page-id-26 blockquote cite {
+  text-align: center;
+  color: #BC973F;
+  display: block;
+  font-size: 4em;
+  margin-top: 0.75em;
+}
+
+.page-id-26 blockquote p {
+  font-size: 2.2em;
+  color: #000000 !important;
+}
+
+.page-id-26 blockquote:after {
+  content: "''";
+  position: absolute;
+  top: 50%;
+  left: -0.5em;
+  color: #000000;
+  font-size: 5em;
+  font-family: 'GT Walsheim', sans-serif !important;
+  font-style: normal;
+  text-align: center;
+  text-indent: -2px;
+  width: 1em;
+  margin-top: -0.5em;
+  transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;
+}
+
+/* Do Not Edit */
+.page-id-26 .overlay {
+  position: relative;
+  display: inline-block;
+  --border-style: 2px solid rgb(206, 164, 27);
+  --border-space: 20px;
+}
+
+.page-id-26 .overlay-element {
+  position: absolute;
+  width: 150px;
+  /* controls the length of the borders */
+  height: 100px;
+  /* controls the height of the borders */
+}
+
+.page-id-26 .overlay .top-left {
+  margin: -40px;
+  border-left: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  left: var(--border-space);
+}
+
+.page-id-26 .overlay .top-right {
+  margin: -40px;
+  border-right: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-26 .overlay .bottom-left {
+  margin: -40px;
+  border-left: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  left: var(--border-space);
+}
+
+.page-id-26 .overlay .bottom-right {
+  margin: -40px;
+  border-right: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  right: var(--border-space);
+}
+
+
+
+/* Do Not Edit */
+.custom-shape-divider-bottom-1659972999 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1659972999 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 132px;
+}
+
+.custom-shape-divider-bottom-1659972999 .shape-fill {
+  fill: #F2F2F2;
+}
+
+.custom-shape-divider-top-1660034806 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1660034806 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.custom-shape-divider-top-1660034806 .shape-fill {
+  fill: #F2F2F2;
+}
+
+.custom-shape-divider-top-1660042866 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1660042866 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 220px;
+}
+
+.custom-shape-divider-top-1660042866 .shape-fill {
+  fill: #04313D;
+}
+
+.custom-shape-divider-bottom-1660047418 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1660047418 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 120px;
+}
+
+.custom-shape-divider-bottom-1660047418 .shape-fill {
+  fill: #04313D;
+}
+
+.custom-shape-divider-top-1660049621 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1660049621 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 135px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1660049621 .shape-fill {
+  fill: #04313D;
+}
+
+.custom-shape-divider-bottom-1660052826 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1660052826 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 135px;
+}
+
+.custom-shape-divider-bottom-1660052826 .shape-fill {
+  fill: #04313D;
+}
+
+
+.custom-shape-divider-bottom-1660057737 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1660057737 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 135px;
+}
+
+.custom-shape-divider-bottom-1660057737 .shape-fill {
+  fill: #04313D;
+}
+
+
+/* Do Not Edit*/
+
+#section6 .blog-paragraph {
+  text-align: justify !important;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+details {
+  display: block;
+}
+
+summary {
+  font-size: 1.3em;
+  font-weight: 600;
+  background-color: #d6a53f;
+  color: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  outline: none;
+  border-radius: 0.25rem;
+  text-align: left;
+  cursor: pointer;
+  position: relative;
+}
+
+.faq__content {
+  padding-bottom: 10px;
+}
+
+.faq__content p {
+  color: white;
+  font-size: 1.15em;
+}
+
+@media only screen and (max-width: 700px) {
+
+  .page-id-26 .padding-div-large p {
+    font-size: 1em;
+  }
+
+  .page-id-26 #Key-attractions-title {
+    font-size: 2.5em;
+  }
+
+  .page-id-26 #section4-title {
+    font-size: 2.5em;
+  }
+
+  .page-id-26 .attraction-row-img {
+    height: 350px;
+  }
+
+  .page-id-26 .attraction-row-text h2 {
+    text-align: center;
+  }
+
+  .page-id-26 .right-text p {
+    font-size: 1em;
+  }
+
+  .page-id-26 #about-us-title {
+    margin-top: 80px;
+    margin-bottom: 40px;
+    font-size: 2.5em;
+  }
+
+  .page-id-26 blockquote:before {
+    display: none !important;
+  }
+
+  .page-id-26 blockquote:after {
+    display: none !important;
+  }
+
+  .page-id-26 #content blockquote {
+    margin: 0;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+
+  .page-id-26 #section6-title {
+
+    width: calc(100% - 10px);
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2.5em;
+  }
+
+  .page-id-26 blockquote {
+    border-left: none;
+  }
+}
+
+
+@media only screen and (min-width: 1440px) {
+  .page-id-26 #landing-page {
+    height: 80vh;
+  }
+
+  .text-temp h2 {
+    font-size: 12em !important;
+  }
+
+  .text-temp h4 {
+    font-size: 4em;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+
+  /*landing page */
+  .page-id-26 #landing-page {
+    height: 600px;
+  }
+
+  .text-temp h2 {
+    font-size: 6em !important;
+  }
+
+  .text-temp h4 {
+    display: none;
+  }
+
+  /* About Grand Cayman */
+  .page-id-26 #section2 {
+    padding-top: unset;
+  }
+
+  .page-id-26 .left-right-img {
+    flex-direction: column;
+  }
+
+  .page-id-26 .right-text {
+    padding-top: 50px;
+    width: 80%;
+  }
+
+  /* Key Attractions */
+
+  .page-id-26 .padding-div {
+    margin: 0;
+  }
+
+
+  .page-id-26 .attraction-row-img {
+    width: 300px;
+  }
+
+  .page-id-26 .attraction-row-text {
+    width: calc(100% - 300px);
+  }
+
+  /* George Town*/
+
+
+  .page-id-26 #section4 .overlay {
+    --border-space: unset;
+    --border-style: unset;
+  }
+
+  .page-id-26 .padding-div-large {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .page-id-26 .attraction-row {
+    width: 100%;
+  }
+
+  .page-id-26 .attraction-row-text p {
+    font-size: 1.3em;
+  }
+
+  .page-id-26 .attraction-row-text h1 {
+    font-size: 2em;
+    text-align: center;
+  }
+
+  .page-id-26 .padding-div {
+    padding: 20px;
+  }
+
+  /* Owen Airport */
+  .page-id-26 #section7-margin p {
+    font-size: 1.5em;
+  }
+
+  /* Featured Lots */
+  .page-id-26 .flex-row-lots {
+    width: 100%;
+    margin-bottom: 50px;
+    margin-left: unset;
+    margin-right: unset;
+  }
+
+  .page-id-26 .flex-row-lots {
+    flex-direction: column;
+  }
+
+  .page-id-26 #section8-title {
+    font-size: 2.5em;
+  }
+
+  .page-id-26 .lot {
+    width: unset;
+    max-width: 400px;
+    margin-bottom: 100px;
+  }
+
+  .page-id-26 .lot-info p {
+    margin: 20px;
+    text-align: center;
+    font-size: 1.3em;
+  }
+
+  .page-id-26 .lot-price {
+    font-size: 2em;
+  }
+
+  .page-id-26 .lot .lot-img {
+    width: 100%;
+  }
+
+  /* Quotes */
+  .page-id-26 #content blockquote {
+    margin-left: 20px;
+    margin-right: 20px
+  }
+}
+
+@media only screen and (max-width: 760px) {
+
+  /* Landing Img */
+  .page-id-26 #parent {
+    display: none;
+  }
+
+  .page-id-25 #parent {
+    display: none;
+  }
+
+  /* Key Attractions */
+  .page-id-26 #Key-attractions-title {
+    font-size: 4em;
+  }
+
+  .page-id-26 .attraction-row-img {
+    width: 250px;
+  }
+
+  .page-id-26 .attraction-row-text {
+    width: calc(100% - 250px);
+  }
+
+  .page-id-26 .attraction-row-text p {
+    font-size: 1em;
+  }
+
+  .page-id-26 .attraction-row-text h1 {
+    font-size: 1.75em;
+  }
+
+  /* George Town */
+  .page-id-26 .section4-img-float {
+    width: 100%;
+    height: 400px;
+  }
+
+  .page-id-26 #section4-content {
+    padding-top: 100px;
+  }
+
+  /* Quote */
+  .page-id-26 blockquote p {
+    text-align: justify;
+    font-size: 1.5em;
+  }
+
+  .page-id-26 blockquote cite {
+    font-size: 3em;
+  }
+
+  /* Five Areas */
+  .page-id-26 #section6-title {
+    font-size: 2.5em;
+  }
+
+  #section6 .blog-paragraph {
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+  }
+
+  /* Owen Airport */
+  .page-id-26 #section7-title {
+    font-size: 2.5em;
+  }
+
+  .page-id-26 #section7-margin {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .page-id-26 #section7-margin p {
+    text-align: justify;
+  }
+
+  .page-id-26 .youtube {
+    display: none;
+  }
+
+  .page-id-26 #section7-margin p {
+    font-size: 1.3em;
+  }
+}
+
+@media only screen and (max-width: 525px) {
+
+  /* About Grand Cayman */
+  .page-id-26 .left-img {
+    width: 400px;
+    height: 500px;
+  }
+
+  /* Key Attractions */
+
+  .page-id-26 .attraction-row {
+    flex-direction: column;
+    width: 350px;
+  }
+
+  .page-id-26 .attraction-row-img {
+    width: 350px;
+  }
+
+  .page-id-26 .attraction-row-text {
+    width: 100%;
+  }
+
+  /* Quote */
+  .page-id-26 blockquote p {
+    font-size: 1.3em;
+  }
+
+  .page-id-26 blockquote cite {
+    font-size: 2em;
+  }
+
+  .page-id-26 blockquote {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+
+  /* About Grand Cayman */
+  .page-id-26 .left-img {
+    width: 250px;
+    height: 400px;
+  }
+
+  .page-id-26 .section4-img-float {
+    width: 100%;
+    height: 300px;
+  }
+
+  .page-id-26 #landing-page {
+    display: none;
+  }
+}
+
+/* little Cayman*/
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+html {
+  margin: 0;
+}
+
+.page-id-24 body {
+  min-height: 100vh;
+  min-width: 100vw;
+  margin: 0;
+  background-color: #f2f2f2;
+  font-family: 'GT Walsheim', sans-serif !important;
+  background-size: 100%;
+  overflow-x: hidden;
+}
+
+.page-id-24 #landing-img {
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/07/Untitled-design-2022-07-20T111810.024.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.page-id-24 #landing-text {
+  text-shadow: 1px 2px black;
+  color: white;
+  width: 95%;
+  margin-left: 3%;
+  text-align: center;
+  position: absolute;
+  top: 20vh;
+}
+
+.page-id-25 #content h2 {
+  font-weight: normal;
+}
+
+.page-id-24 #landing-text .custom-h1 {
+  font-size: 6em;
+  line-height: 1.0;
+  margin: 0;
+  font-weight: 700;
+}
+
+.page-id-24 #landing-text h2 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.page-id-24 #landing-text h4 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.page-id-24 .overlay {
+  position: relative;
+  display: inline-block;
+  --border-style: 2px solid rgb(206, 164, 27);
+  --border-space: 20px;
+}
+
+.page-id-24 .overlay-element {
+  position: absolute;
+  width: 150px;
+  height: 100px;
+}
+
+.page-id-24 .overlay .top-left {
+  margin: -2%;
+  border-left: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  left: var(--border-space);
+}
+
+.page-id-24 .overlay .top-right {
+  margin: -2%;
+  border-right: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-24 .overlay .bottom-left {
+  margin: -2%;
+  border-left: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+}
+
+.page-id-24 .overlay .bottom-right {
+  margin: -2%;
+  border-right: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-24 .overlay-1 {
+  width: 100%;
+  position: relative;
+  display: inline-block;
+  --border-style: 2px solid rgb(206, 164, 27);
+  --border-space: 20px;
+}
+
+.page-id-24 .overlay-element {
+  position: absolute;
+  width: 150px;
+  height: 100px;
+}
+
+.page-id-24 .svg-background p {
+  text-align: center !important;
+  padding: 2%;
+  border: 4px solid #eeb808;
+}
+
+.page-id-24 .overlay-1 .top-left {
+  margin: -1%;
+  border-left: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  left: var(--border-space);
+}
+
+.page-id-24 .overlay-1 .top-right {
+  margin: -1%;
+  border-right: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-24 .overlay-1 .bottom-left {
+  margin: -1%;
+  border-left: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+}
+
+.page-id-24 .overlay-1 .bottom-right {
+  margin: -1%;
+  border-right: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-24 #main-page {
+  color: black;
+  display: block;
+  min-height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  width: 81%;
+  max-width: 1700px;
+  padding: 4.5%;
+  margin-top: 90px;
+  margin-bottom: 90px;
+  background-color: white;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.page-id-24 #main-page img {
+  width: 100%;
+  max-height: 700px;
+}
+
+.page-id-24 #main-page .float-img img {
+  float: left;
+  display: inline;
+  width: 100% !important;
+  margin-bottom: 30px;
+  height: auto;
+}
+
+.page-id-24 #title-text {
+  width: 100%;
+  font-size: 4em;
+  text-align: center;
+}
+
+.page-id-24 #title-text-small {
+  margin-left: 25%;
+  width: 50%;
+  font-size: 2em;
+  text-align: center;
+}
+
+.page-id-24 .blog-paragraph p {
+  text-align: justify;
+  font-size: 2em;
+}
+
+.page-id-24 .box-60-40 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.page-id-24 .box-60 {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.page-id-24 .box-60 p {
+  margin-top: 0 !important;
+  padding-left: 30px;
+}
+
+.page-id-24 .box-40 {
+  width: 100%;
+}
+
+.page-id-24 .box-40 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-24 .section-title {
+  text-align: center;
+  width: 100%;
+  font-size: 3em;
+}
+
+.page-id-24 blockquote {
+  border-left: 3px solid #000000;
+  color: #eeb808;
+  font-style: italic;
+  line-height: 1.8em;
+  padding: 1em 2em;
+  position: relative;
+  transition: 0.2s border ease-in-out;
+  z-index: 0;
+}
+
+.page-id-24 blockquote cite {
+  display: block;
+  line-height: 1.8em;
+  margin-top: 1em;
+}
+
+.page-id-24 blockquote:after {
+  content: "''";
+  position: absolute;
+  top: 50%;
+  left: -0.5em;
+  color: #000000;
+  font-size: 2em;
+  font-family: 'GT Walsheim', sans-serif !important;
+  font-style: normal;
+  line-height: 1em;
+  text-align: center;
+  text-indent: -2px;
+  width: 1em;
+  margin-top: -0.5em;
+  transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;
+}
+
+.page-id-24 .svg-background {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1037%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(5%2c 49%2c 62%2c 1)'%3e%3c/rect%3e%3cpath d='M0%2c493.852C89.475%2c478.001%2c139.836%2c384.775%2c220.918%2c343.755C315.624%2c295.843%2c445.69%2c316.325%2c513.045%2c234.3C582.464%2c149.761%2c585.664%2c26.306%2c570.552%2c-82.033C555.404%2c-190.63%2c515.077%2c-303.987%2c428.562%2c-371.351C345.853%2c-435.751%2c229.2%2c-411.278%2c125.775%2c-428.351C36.922%2c-443.019%2c-48.136%2c-482.374%2c-136.424%2c-464.618C-229%2c-446%2c-313.989%2c-396.986%2c-377.53%2c-327.132C-441.964%2c-256.295%2c-476.473%2c-165.15%2c-494.392%2c-71.083C-512.942%2c26.296%2c-520.968%2c128.965%2c-481.756%2c220.01C-442.148%2c311.976%2c-364.737%2c382.603%2c-277.685%2c432.086C-193.544%2c479.914%2c-95.3%2c510.735%2c0%2c493.852' fill='%23032028'%3e%3c/path%3e%3cpath d='M1440 1272.27C1568.994 1295.937 1678.65 1169.4189999999999 1773.329 1078.67 1855.642 999.774 1888.434 889.797 1943.31 789.854 2003.397 680.42 2127.243 587.308 2111.0969999999998 463.51099999999997 2094.965 339.822 1951.524 281.611 1865.27 191.502 1784.101 106.70600000000002 1731.8319999999999-17.24000000000001 1619.216-50.35299999999995 1506.594-83.46799999999996 1393.351-15.462999999999965 1281.3890000000001 19.82000000000005 1171.761 54.36700000000002 1058.738 79.27199999999999 971.262 153.836 874.705 236.14100000000002 781.949 337.221 762.027 462.522 742.02 588.361 784.202 724.042 864.931 822.625 939.252 913.383 1084.576 897 1176.987 969.256 1284.527 1053.341 1305.73 1247.635 1440 1272.27' fill='%23074254'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1037'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  background-size: 100% 100%;
+  color: white;
+  padding: 4%;
+  border-radius: 1vh;
+  text-shadow: 2px 2px 0px #020202;
+}
+
+.page-id-24 .faq__content {
+  padding-bottom: 30px;
+}
+
+.page-id-24 summary {
+  font-size: 2.25em;
+  font-weight: 600;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  outline: none;
+  border-radius: 0.25rem;
+  text-align: left;
+  cursor: pointer;
+  position: relative;
+}
+
+.page-id-24 details[open] summary~* {
+  animation: sweep .10s ease-in-out;
+}
+
+@keyframes sweep {
+  0% {
+    opacity: 0;
+    margin-top: -10px
+  }
+
+  100% {
+    opacity: 1;
+    margin-top: 0px
+  }
+}
+
+.page-id-24 details>summary::after {
+  position: absolute;
+  content: "+";
+  right: 20px;
+}
+
+.page-id-24 details[open]>summary::after {
+  position: absolute;
+  content: "-";
+  right: 20px;
+}
+
+.page-id-24 details>summary::-webkit-details-marker {
+  display: none;
+}
+
+.page-id-24 .box-of-4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.page-id-24 .blog-box {
+  width: 45%;
+  max-width: 600px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  cursor: pointer;
+  margin-bottom: 2.5%;
+  flex-direction: column;
+  text-align: justify;
+  justify-content: flex-end;
+}
+
+.page-id-24 .blog-box img {
+  border-bottom: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 550px;
+  width: 100%;
+}
+
+.page-id-24 .blog-box-description {
+  display: block;
+  flex-grow: 1;
+  flex-direction: column;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding: 60px;
+  border-top: 0;
+}
+
+.page-id-24 .blog-box-description h2 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2em !important;
+  text-align: center;
+  color: #a2bdda;
+}
+
+.page-id-24 .blog-box-description p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1em;
+}
+
+.page-id-24 .box-full {
+  padding: 30px;
+  padding-left: 0;
+  padding-top: 0;
+  padding-right: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.page-id-24 .flex-middle {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin: 0 auto;
+}
+
+.page-id-24 .flex-middle button {
+  font-size: 1.2em;
+  width: 300px;
+  height: 100px;
+  background: white;
+  color: #000;
+  border: 1px solid black;
+  transition: 0.3s;
+}
+
+.page-id-24 .flex-middle button:hover {
+  background: black;
+  color: #fff;
+}
+
+.page-id-24 .ai-font-phone:before {
+  font-style: normal;
+  content: "?  ";
+  margin-right: 0.5vh;
+}
+
+.page-id-24 #content strong {
+  font-weight: bolder;
+}
+
+.page-id-24 .blog-video {
+  margin-left: 2.5%;
+  width: 95%;
+  height: 60vh;
+  margin-bottom: 60px;
+  border: 0;
+}
+
+.page-id-24 .blog-video iframe {
+  width: 100%;
+  height: 60vh;
+  border: 0;
+}
+
+.page-id-24 .container {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+  width: unset !important;
+}
+
+.float-img-new {
+  display: flex;
+  flex-direction: column;
+}
+
+.make-middle {
+  padding-top: 30px;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.make-middle p {
+  margin: 0 !important;
+}
+
+#get-in-touch {
+  background-color: white;
+}
+
+.page-id-1720 #get-in-touch {
+  margin-top: 150px;
+}
+
+.page-id-24 .box-of-5 {
+  padding-top: 0;
+  margin-bottom: 60px;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.page-id-24 .location-box {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+  width: 500px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  color: white;
+}
+
+.page-id-24 .info-box {
+  position: relative;
+  border-top: 2px solid rgba(255, 255, 255, 0.25);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+}
+
+.page-id-24 .info-box::before {
+  left: 0;
+  top: -2px;
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-24 .info-box::after {
+  right: 0;
+  bottom: -2px;
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-24 * ::before, ::after {
+  box-sizing: border-box;
+}
+
+.page-id-24 .location-box h3 {
+  color: #d6a53f;
+  text-shadow: 1px 1px 0px black;
+  font-weight: normal;
+  padding-top: 10px;
+  font-size: 2.5em;
+  margin: 0 !important;
+}
+
+.page-id-24 .location-box p {
+  text-shadow: 1px 1px 0px black;
+  font-weight: 500;
+  padding-top: 10px;
+  font-size: 1.5em;
+  margin: 0 !important;
+}
+
+.page-id-24 .img1 {
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/07/Export-1-1.jpeg");
+  background-size: 100% 100%;
+}
+
+.page-id-24 .img1:hover {
+  background-size: 105% 105%;
+  transition: all 2s ease-in;
+}
+
+.page-id-24 .img2 {
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/03/Sun-Kiss-1.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.page-id-24 .img2:hover {
+  background-size: 105% 105%;
+  transition: all 2s ease-in;
+}
+
+
+@media only screen and (max-width: 1842px) {
+
+  .page-id-24 .box-60-40 {
+    width: 100% !important;
+    flex-direction: column !important;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .page-id-24 .blog-box-description {
+    padding: 30px;
+  }
+
+  .page-id-24 #landing-img {
+    height: 70vh
+  }
+
+  .page-id-24 .float-img-new {
+    flex-direction: column;
+  }
+
+  .page-id-24 .float-img-new img {
+    width: 100% !important;
+    height: auto;
+    margin-bottom: 30px;
+  }
+
+  .page-id-24 .make-middle p {
+    padding: 0 !important
+  }
+
+  .page-id-24 .blog-box-description h2 {
+    text-align: center !important;
+  }
+
+  .page-id-24 .blog-box {
+    width: 80%;
+  }
+
+  .page-id-24 .blog-box-description p {
+    text-align: justify;
+    font-size: 1em;
+  }
+
+  .page-id-24 .blog-box-description h2 {
+    text-align: justify;
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .page-id-24 #landing-text .custom-h1 {
+    padding: 20px;
+  }
+
+  .page-id-24 #landing-text h2 {
+    display: none;
+  }
+
+  .page-id-24 #landing-text h4 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .page-id-24 #landing-img {
+    height: 55vh;
+  }
+
+  .page-id-24 .box-of-4 {
+    border: 0;
+  }
+
+  .page-id-24 #title-text-small {
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  .page-id-24 #main-page {
+    width: 100%;
+  }
+
+  .page-id-24 .blog-paragraph p {
+    font-size: 1.5em;
+  }
+
+  .page-id-24 .box-60 p {
+    padding-top: 30px;
+    padding-left: 0;
+    text-align: justify;
+    font-size: 1.5em;
+  }
+
+  .page-id-24 #landing-text .custom-h1 {
+    font-size: 4em;
+    margin: 0;
+  }
+
+  .page-id-24 #landing-text h2 {
+    font-size: 2em;
+  }
+
+  .page-id-24 #landing-text h4 {
+    font-size: 2em;
+  }
+}
+
+/* Cayman Brac */
+
+.page-id-25 #main-wrapper {
+  color: black !important;
+}
+
+.page-id-25 body {
+  min-height: 100vh;
+  min-width: 100vw;
+  margin: 0;
+  background-color: #f2f2f2;
+  font-family: 'GT Walsheim', sans-serif !important;
+  background-size: 100%;
+  overflow-x: hidden;
+}
+
+.page-id-25 #landing-img {
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/07/brac.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.page-id-25 #landing-text {
+  color: white;
+  width: 95%;
+  margin-left: 3%;
+  text-align: center;
+  position: absolute;
+  top: 20vh;
+}
+
+.page-id-25 #landing-text h1 {
+  font-size: 6em;
+  margin: 0;
+}
+
+.page-id-25 #landing-text h2 {
+  font-size: 3em;
+}
+
+.page-id-25 #landing-text h4 {
+  font-size: 3em;
+}
+
+.page-id-25 .overlay {
+  position: relative;
+  display: inline-block;
+  --border-style: 2px solid rgb(206, 164, 27);
+  --border-space: 20px;
+}
+
+.page-id-25 .overlay-element {
+  position: absolute;
+  width: 150px;
+  height: 100px;
+}
+
+.page-id-25 .overlay .top-left {
+  margin: -60px;
+  border-left: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  left: var(--border-space);
+}
+
+.page-id-25 .overlay .top-right {
+  margin: -60px;
+  border-right: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-25 .overlay .bottom-left {
+  margin: -60px;
+  border-left: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+}
+
+.page-id-25 .overlay .bottom-right {
+  margin: -60px;
+  border-right: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-25 .overlay-1 {
+  position: relative;
+  --border-style: 2px solid rgb(206, 164, 27);
+  --border-space: 20px;
+}
+
+.page-id-25 .overlay-element {
+  position: absolute;
+  width: 150px;
+  height: 100px;
+}
+
+.page-id-25 .overlay-1 .top-left {
+  margin: -1%;
+  border-left: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  left: var(--border-space);
+}
+
+.page-id-25 .overlay-1 .top-right {
+  margin: -1%;
+  border-right: var(--border-style);
+  border-top: var(--border-style);
+  top: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-25 .overlay-1 .bottom-left {
+  margin: -1%;
+  border-left: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+}
+
+.page-id-25 .overlay-1 .bottom-right {
+  margin: -1%;
+  border-right: var(--border-style);
+  border-bottom: var(--border-style);
+  bottom: var(--border-space);
+  right: var(--border-space);
+}
+
+.page-id-25 .svg-background p {
+  text-align: center !important;
+  padding: 2%;
+  border: 4px solid #eeb808;
+}
+
+
+.page-id-25 #main-page {
+  color: black;
+   display: block;
+  min-height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  width: 81%;
+  max-width: 1700px;
+  padding: 4.5%;
+  margin-top: 90px;
+  margin-bottom: 90px;
+  background-color: white;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.page-id-25 #main-page img {
+  width: 100%;
+}
+
+.page-id-25 #main-page .float-img img {
+  width: 100%;
+  height: auto;
+}
+
+.page-id-25 #title-text {
+  width: 100%;
+  font-size: 4em;
+  text-align: center;
+}
+
+.page-id-25 #title-text-small {
+  margin-left: 25%;
+  width: 50%;
+  font-size: 2em;
+  text-align: center;
+}
+
+.page-id-25 .blog-paragraph p {
+  font-size: 2em;
+}
+
+.page-id-25 .box-60-40 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.page-id-25 .box-60 {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.page-id-25 .box-60 p {
+  margin-top: 0 !important;
+  padding-left: 30px;
+}
+
+.page-id-25 .box-40 {
+  width: 100%;
+}
+
+.page-id-25 .box-40 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-25 .section-title {
+  text-align: center;
+  width: 100%;
+}
+
+.page-id-25 .section-title p {
+  font-size: 3em;
+}
+
+.page-id-25 blockquote {
+  border-left: 3px solid #000000;
+  color: #eeb808;
+  font-style: italic;
+  line-height: 1.8em;
+  padding: 1em 2em;
+  position: relative;
+  transition: 0.2s border ease-in-out;
+  z-index: 0;
+}
+
+.page-id-25 blockquote:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -4px;
+  height: 5em;
+  background-color: #F9F9F9;
+  width: 5px;
+  margin-top: -3.5em;
+}
+
+.page-id-25 blockquote cite {
+  display: block;
+  line-height: 1.8em;
+  margin-top: 1em;
+}
+
+.page-id-25 blockquote:after {
+  content: "''";
+  position: absolute;
+  top: 50%;
+  left: -0.5em;
+  color: #000000;
+  font-size: 6em;
+  font-family: 'GT Walsheim', sans-serif !important;
+  font-style: normal;
+  line-height: 1em;
+  text-align: center;
+  text-indent: -2px;
+  width: 1em;
+  margin-top: -0.5em;
+  transition: 0.2s all ease-in-out, 0.4s transform ease-in-out;
+}
+
+.page-id-25 .svg-background {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1037%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(5%2c 49%2c 62%2c 1)'%3e%3c/rect%3e%3cpath d='M0%2c493.852C89.475%2c478.001%2c139.836%2c384.775%2c220.918%2c343.755C315.624%2c295.843%2c445.69%2c316.325%2c513.045%2c234.3C582.464%2c149.761%2c585.664%2c26.306%2c570.552%2c-82.033C555.404%2c-190.63%2c515.077%2c-303.987%2c428.562%2c-371.351C345.853%2c-435.751%2c229.2%2c-411.278%2c125.775%2c-428.351C36.922%2c-443.019%2c-48.136%2c-482.374%2c-136.424%2c-464.618C-229%2c-446%2c-313.989%2c-396.986%2c-377.53%2c-327.132C-441.964%2c-256.295%2c-476.473%2c-165.15%2c-494.392%2c-71.083C-512.942%2c26.296%2c-520.968%2c128.965%2c-481.756%2c220.01C-442.148%2c311.976%2c-364.737%2c382.603%2c-277.685%2c432.086C-193.544%2c479.914%2c-95.3%2c510.735%2c0%2c493.852' fill='%23032028'%3e%3c/path%3e%3cpath d='M1440 1272.27C1568.994 1295.937 1678.65 1169.4189999999999 1773.329 1078.67 1855.642 999.774 1888.434 889.797 1943.31 789.854 2003.397 680.42 2127.243 587.308 2111.0969999999998 463.51099999999997 2094.965 339.822 1951.524 281.611 1865.27 191.502 1784.101 106.70600000000002 1731.8319999999999-17.24000000000001 1619.216-50.35299999999995 1506.594-83.46799999999996 1393.351-15.462999999999965 1281.3890000000001 19.82000000000005 1171.761 54.36700000000002 1058.738 79.27199999999999 971.262 153.836 874.705 236.14100000000002 781.949 337.221 762.027 462.522 742.02 588.361 784.202 724.042 864.931 822.625 939.252 913.383 1084.576 897 1176.987 969.256 1284.527 1053.341 1305.73 1247.635 1440 1272.27' fill='%23074254'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1037'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  background-size: 100% 100%;
+  color: white;
+  padding: 4%;
+  border-radius: 1vh;
+  text-shadow: 2px 2px 0px #020202;
+}
+
+.page-id-25 .faq__content {
+  padding-bottom: 30px;
+}
+
+.page-id-25 summary {
+  font-size: 1.5em;
+  font-weight: 600;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  outline: none;
+  border-radius: 0.25rem;
+  text-align: left;
+  cursor: pointer;
+  position: relative;
+}
+
+.page-id-25 details[open] summary~* {
+  animation: sweep .10s ease-in-out;
+}
+
+@keyframes sweep {
+  0% {
+    opacity: 0;
+    margin-top: -10px
+  }
+
+  100% {
+    opacity: 1;
+    margin-top: 0px
+  }
+}
+
+.page-id-25 details>summary::after {
+  position: absolute;
+  content: "+";
+  right: 20px;
+}
+
+.page-id-25 details[open]>summary::after {
+  position: absolute;
+  content: "-";
+  right: 20px;
+}
+
+.page-id-25 details>summary::-webkit-details-marker {
+  display: none;
+}
+
+.page-id-25 .box-of-4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.page-id-25 .blog-box {
+  width: 45%;
+  max-width: 600px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  cursor: pointer;
+  margin-bottom: 2.5%;
+  flex-direction: column;
+  text-align: justify;
+  justify-content: flex-end;
+}
+
+.page-id-25 .blog-box img {
+  border-bottom: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 550px;
+  width: 100%;
+}
+
+.page-id-25 .blog-box-description {
+  display: block;
+  flex-grow: 1;
+  flex-direction: column;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding: 40px;
+  border-top: 0;
+}
+
+.page-id-25 .blog-box-description h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+  font-size: 2.5em !important;
+  text-align: center;
+  color: #a2bdda;
+}
+
+.page-id-25 .blog-box-description p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1em;
+}
+
+.page-id-25 .box-full {
+  padding: 30px;
+  padding-left: 0;
+  padding-top: 0;
+  padding-right: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.page-id-25 .flex-middle {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin: 0 auto;
+}
+
+.page-id-25 .flex-middle button {
+  font-size: 1.2em;
+  width: 300px;
+  height: 100px;
+  background: white;
+  color: #000;
+  border: 1px solid black;
+  transition: 0.3s;
+}
+
+.page-id-25 .flex-middle button:hover {
+  background: black;
+  color: #fff;
+}
+
+.page-id-25 .ai-font-phone:before {
+  font-style: normal;
+  margin-right: 0.5vh;
+}
+
+.page-id-25 #content strong {
+  font-weight: bolder;
+}
+
+.page-id-25 .blog-video {
+  margin-left: 2.5%;
+  width: 95%;
+  height: 60vh;
+  margin-bottom: 60px;
+  border: 0;
+}
+
+.page-id-25 .blog-video iframe {
+  width: 100%;
+  height: 60vh;
+  border: 0;
+}
+
+.page-id-25 .container {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+  width: unset !important;
+}
+
+.page-id-25 #get-in-touch {
+  background-color: white;
+}
+
+.page-id-25 .box-of-5 {
+  padding-top: 0;
+  margin-bottom: 60px;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.page-id-25 .location-box {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+  width: 500px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  color: white;
+}
+
+.page-id-25 .info-box {
+  position: relative;
+  border-top: 2px solid rgba(255, 255, 255, 0.25);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+}
+
+.page-id-25 .info-box::before {
+  left: 0;
+  top: -2px;
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-25 .info-box::after {
+  right: 0;
+  bottom: -2px;
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 3px;
+  background-color: #d6a53f;
+}
+
+.page-id-25 * ::before, ::after {
+  box-sizing: border-box;
+}
+
+.page-id-25 .location-box h3 {
+  color: #d6a53f;
+  text-shadow: 1px 1px 0px black;
+  font-weight: normal;
+  padding-top: 10px;
+  font-size: 2.5em;
+  margin: 0 !important;
+}
+
+.page-id-25 .location-box p {
+  text-shadow: 1px 1px 0px black;
+  font-weight: 500;
+  padding-top: 10px;
+  font-size: 1.5em;
+  margin: 0 !important;
+}
+
+.page-id-25 .img1 {
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/07/Untitled-design-2-1.png");
+  background-size: 100% 100%;
+}
+
+.page-id-25 .img1:hover {
+  background-size: 105% 105%;
+  transition: all 2s ease-in;
+}
+
+.page-id-25 .img2 {
+  background-image: url("https://www.oasis-land.com/wp-content/uploads/2022/07/Export-4.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.page-id-25 .img2:hover {
+  background-size: 105% 105%;
+  transition: all 2s ease-in;
+}
+
+@media only screen and (max-width: 1842px) {
+
+  .page-id-25 .box-60-40 {
+    width: 100% !important;
+    flex-direction: column !important;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .page-id-25 #landing-img {
+    height: 75vh;
+  }
+
+  .page-id-25 .blog-box {
+    width: 80%;
+  }
+
+  .page-id-25 .float-img-new {
+    flex-direction: column;
+  }
+
+  .page-id-25 .float-img-new img {
+    width: 100% !important;
+    height: auto;
+    margin-bottom: 30px;
+  }
+
+  .page-id-25 .make-middle p {
+    padding: 0 !important
+  }
+
+  .page-id-25 .blog-box-description h2 {
+    text-align: center !important;
+  }
+
+  .page-id-25 .blog-box-description p {
+    text-align: justify;
+    font-size: 1em;
+  }
+
+  .page-id-25 .blog-box-description h2 {
+    text-align: justify;
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+
+  .page-id-25 #landing-img {
+    height: 65vh;
+  }
+
+  .page-id-25 #main-page .float-img img {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .page-id-25 #landing-text h4 {
+    display: none;
+  }
+
+  .page-id-25 #landing-img {
+    height: 55vh;
+  }
+
+  .page-id-25 #landing-text h2 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  .page-id-25 #landing-img {
+    height: 50vh;
+  }
+
+  .page-id-25 .box-of-4 {
+    justify-content: center;
+    border: 0;
+  }
+
+  .page-id-25 #title-text-small {
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  .page-id-25 #main-page {
+    width: 100%;
+  }
+
+  .page-id-25 .blog-paragraph p {
+    font-size: 1.5em;
+  }
+
+  .page-id-25 .box-60 p {
+    padding-top: 30px;
+    padding-left: 0;
+    text-align: justify;
+    font-size: 1.5em;
+  }
+
+  .page-id-25 #landing-text h1 {
+    font-size: 4em;
+    margin: 0;
+  }
+
+  .page-id-25 #landing-text h2 {
+    font-size: 2em;
+  }
+
+  .page-id-25 #landing-text h4 {
+    font-size: 2em;
+  }
+}
+
+/*  HyperLink Style */
+.blue-hyperlink {
+  color: #d6a53f;
+}
+
+/* .ip-banner Fixes */
+@media only screen and (max-width: 720px) {
+  .ip-banner {
+    margin-top: 52px !important;
+  }
+
+  #logo-title-text {
+    font-size: 3em !important;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .img-fix-middle {
+    top: -550px;
+    font-weight: normal !important;
+  }
+}
+
+@media only screen and (max-width: 1282px) {
+  .overlay .top-left {
+    margin: -60px;
+  }
+
+  .overlay .top-right {
+    margin: -60px;
+  }
+
+  .overlay .bottom-left {
+    margin: -60px;
+  }
+
+  .overlay .bottom-right {
+    margin: -60px;
+  }
+
+  .ip-banner {
+    width: 100vw !important;
+    height: 700px !important;
+  }
+
+  .ip-banner canvas {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  .img-fix-middle {
+    top: -450px;
+    font-weight: normal !important;
+  }
+
+  .img-fix-middle-banner {
+    top: 20vh;
+    width: 90% !important;
+    font-weight: normal !important;
+  }
+
+  #logo-title-text {
+    font-size: 4em;
+  }
+
+  .overlay {
+    padding: 0px !important;
+  }
+}
+
+
+
+/* Discover Cayman */
+
+.page-id-1745 #ipla-dh .slick-track {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+
+.page-id-1745 #ipla-dh .slick-slide {
+  border: 3px solid #d6a53f !important;
+  height: 100%;
+  flex: 1;
+}
+
+.page-id-1745 #ipla-dh .ipladh-desc {
+  border: 0 !important;
+}
+
+.page-id-1745 .iplab-desc h5 {
+  color: #fff;
+  font-size: 50px;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.page-id-1745 .ipladh-desc {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding: 1vh;
+  border-top: 0;
+  border: 1px solid #d6a53f;
+}
+
+.page-id-1745 .iplapts-slider {
+  padding-top: 30px;
+}
+
+.page-id-1745 .iplapts-flex {
+  margin-bottom: 30xp;
+}
+
+.page-id-1745 .iplapts-img canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.iplapts-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.page-id-1745 .new-slider {
+  display: flex;
+  flex-direction: row;
+}
+
+.iplac-desc p {
+  font-weight: 800;
+}
+
+.iplait-items {
+  margin-top: 60px;
+}
+
+.iplait-img {
+  width: 100%;
+  height: 100%;
+}
+
+.iplait-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.iplapts-item-wrap:first-child {
+  top: 0;
+}
+
+.iplapts-item-wrap:nth-child(2) {
+  top: 0;
+}
+
+.iplapts-item-wrap:nth-child(3) {
+  top: 0;
+}
+
+
+.iplait-item-wrap:first-child {
+  top: 0;
+}
+
+.iplait-item-wrap:nth-child(2) {
+  top: 0;
+}
+
+.iplait-item-wrap:nth-child(3) {
+  top: 0;
+}
+
+@media only screen and (max-width: 980px) {
+  .page-id-1745 .iplab-desc h5 {
+    font-size: 30px;
+  }
+
+  .page-id-1745 .iplab-desc h3 {
+    font-size: 20px;
+  }
+
+  .iplac-desc p {
+    font-size: 0.7em;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .iplac-desc p {
+    font-size: 0.6em;
+  }
+}
+
+.grecaptcha-badge {
+  z-index: 999;
+}
